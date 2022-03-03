@@ -1,0 +1,3981 @@
+2022/02/21 08:36:25 INFO  : Linux/.~lock.Suivi.odt#: Copied (replaced existing)
+2022/02/21 08:36:27 INFO  : Linux/.~lock.Résumé2.odt#: Copied (replaced existing)
+2022/02/21 08:36:27 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for checks to finish
+2022/02/21 08:36:27 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for transfers to finish
+2022/02/21 08:36:30 INFO  : Linux/Suivi.odt: Copied (replaced existing)
+2022/02/21 08:36:43 INFO  : Linux/Résumé2.odt: Copied (replaced existing)
+2022/02/21 08:36:49 ERROR : Linux/ASTUCES/Résolu le 9-05-19 Impossible de supprimer des fichiers vers la corbeille depuis une partition ntfs automontée au demarrage - Forum-Francophone-LinuxMint.fr.desktop: Failed to copy: Nom de fichier trop long: OCA\DAV\Connector\Sabre\Exception\InvalidPath: 400 Bad Request
+2022/02/21 08:37:20 INFO  : 
+Transferred:   	    7.635M / 82.054 MBytes, 9%, 131.057 kBytes/s, ETA 9m41s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:       59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:  8% /33.877M, 47.423k/s, 11m12s
+ *                          Carte_CBarbier_1.psd:  9% /21.480M, 26.794k/s, 12m26s
+ *                 ESPE/Mémoire Master MEEF.pptx: 10% /26.502M, 96.866k/s, 4m10s
+
+2022/02/21 08:38:20 INFO  : 
+Transferred:   	   14.887M / 82.054 MBytes, 18%, 127.399 kBytes/s, ETA 8m59s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:     1m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 16% /33.877M, 57.065k/s, 8m28s
+ *                          Carte_CBarbier_1.psd: 17% /21.480M, 29.279k/s, 10m22s
+ *                 ESPE/Mémoire Master MEEF.pptx: 20% /26.502M, 41.062k/s, 8m45s
+
+2022/02/21 08:39:20 INFO  : 
+Transferred:   	   21.576M / 82.054 MBytes, 26%, 122.979 kBytes/s, ETA 8m23s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:     2m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 21% /33.877M, 31.782k/s, 14m13s
+ *                          Carte_CBarbier_1.psd: 27% /21.480M, 41.854k/s, 6m20s
+ *                 ESPE/Mémoire Master MEEF.pptx: 30% /26.502M, 30.200k/s, 10m24s
+
+2022/02/21 08:40:20 INFO  : 
+Transferred:   	   28.859M / 82.054 MBytes, 35%, 123.309 kBytes/s, ETA 7m21s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:     3m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 27% /33.877M, 29.437k/s, 14m19s
+ *                          Carte_CBarbier_1.psd: 40% /21.480M, 39.040k/s, 5m36s
+ *                 ESPE/Mémoire Master MEEF.pptx: 40% /26.502M, 51.929k/s, 5m8s
+
+2022/02/21 08:41:20 INFO  : 
+Transferred:   	   36.236M / 82.054 MBytes, 44%, 123.826 kBytes/s, ETA 6m18s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:     4m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 33% /33.877M, 43.071k/s, 8m55s
+ *                          Carte_CBarbier_1.psd: 53% /21.480M, 50.722k/s, 3m21s
+ *                 ESPE/Mémoire Master MEEF.pptx: 49% /26.502M, 33.057k/s, 6m52s
+
+2022/02/21 08:42:20 INFO  : 
+Transferred:   	   43.238M / 82.054 MBytes, 53%, 123.104 kBytes/s, ETA 5m22s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:     5m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 40% /33.877M, 45.216k/s, 7m35s
+ *                          Carte_CBarbier_1.psd: 63% /21.480M, 38.771k/s, 3m24s
+ *                 ESPE/Mémoire Master MEEF.pptx: 58% /26.502M, 36.718k/s, 5m4s
+
+2022/02/21 08:43:20 INFO  : 
+Transferred:   	   50.333M / 82.054 MBytes, 61%, 122.817 kBytes/s, ETA 4m24s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:     6m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 47% /33.877M, 38.826k/s, 7m52s
+ *                          Carte_CBarbier_1.psd: 76% /21.480M, 45.640k/s, 1m54s
+ *                 ESPE/Mémoire Master MEEF.pptx: 67% /26.502M, 37.777k/s, 3m56s
+
+2022/02/21 08:44:20 INFO  : 
+Transferred:   	   57.804M / 82.054 MBytes, 70%, 123.402 kBytes/s, ETA 3m21s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:     7m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 54% /33.877M, 40.348k/s, 6m27s
+ *                          Carte_CBarbier_1.psd: 86% /21.480M, 41.824k/s, 1m13s
+ *                 ESPE/Mémoire Master MEEF.pptx: 77% /26.502M, 46.942k/s, 2m10s
+
+2022/02/21 08:45:20 INFO  : 
+Transferred:   	   64.837M / 82.054 MBytes, 79%, 123.027 kBytes/s, ETA 2m23s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:     8m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 62% /33.877M, 44.899k/s, 4m52s
+ *                          Carte_CBarbier_1.psd: 96% /21.480M, 39.436k/s, 17s
+ *                 ESPE/Mémoire Master MEEF.pptx: 85% /26.502M, 33.009k/s, 1m56s
+
+2022/02/21 08:46:20 INFO  : 
+Transferred:   	   71.870M / 82.054 MBytes, 88%, 122.728 kBytes/s, ETA 1m24s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:     9m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 69% /33.877M, 45.422k/s, 3m55s
+ *                          Carte_CBarbier_1.psd:105% /21.480M, 21.657k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx: 96% /26.502M, 58.344k/s, 16s
+
+2022/02/21 08:47:20 INFO  : 
+Transferred:   	   79.059M / 82.054 MBytes, 96%, 122.725 kBytes/s, ETA 24s
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    10m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 77% /33.877M, 37.668k/s, 3m24s
+ *                          Carte_CBarbier_1.psd:115% /21.480M, 47.321k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:104% /26.502M, 30.010k/s, -
+
+2022/02/21 08:48:20 INFO  : 
+Transferred:   	   86.248M / 82.054 MBytes, 105%, 122.722 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    11m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 84% /33.877M, 35.240k/s, 2m36s
+ *                          Carte_CBarbier_1.psd:128% /21.480M, 45.379k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:113% /26.502M, 36.086k/s, -
+
+2022/02/21 08:49:20 INFO  : 
+Transferred:   	   93.469M / 82.054 MBytes, 114%, 122.761 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    12m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 91% /33.877M, 38.222k/s, 1m18s
+ *                          Carte_CBarbier_1.psd:137% /21.480M, 38.222k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:123% /26.502M, 49.062k/s, -
+
+2022/02/21 08:50:20 INFO  : 
+Transferred:   	  100.721M / 82.054 MBytes, 123%, 122.833 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    13m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 99% /33.877M, 38.493k/s, 3s
+ *                          Carte_CBarbier_1.psd:147% /21.480M, 47.472k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:132% /26.502M, 44.446k/s, -
+
+2022/02/21 08:51:20 INFO  : 
+Transferred:   	  107.941M / 82.054 MBytes, 132%, 122.859 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    14m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:107% /33.877M, 44.799k/s, -
+ *                          Carte_CBarbier_1.psd:157% /21.480M, 42.178k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:142% /26.502M, 46.657k/s, -
+
+2022/02/21 08:52:20 INFO  : 
+Transferred:   	  115.068M / 82.054 MBytes, 140%, 122.782 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    15m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:114% /33.877M, 43.565k/s, -
+ *                          Carte_CBarbier_1.psd:165% /21.480M, 22.513k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:152% /26.502M, 55.370k/s, -
+
+2022/02/21 08:53:20 INFO  : 
+Transferred:   	  119.631M / 82.054 MBytes, 146%, 120.141 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    16m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:119% /33.877M, 23.402k/s, -
+ *                          Carte_CBarbier_1.psd:170% /21.480M, 15.652k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:159% /26.502M, 20.294k/s, -
+
+2022/02/21 08:54:20 INFO  : 
+Transferred:   	  127.084M / 82.054 MBytes, 155%, 120.532 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    17m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:126% /33.877M, 51.160k/s, -
+ *                          Carte_CBarbier_1.psd:182% /21.480M, 48.281k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:168% /26.502M, 41.354k/s, -
+
+2022/02/21 08:55:20 INFO  : 
+Transferred:   	  133.898M / 82.054 MBytes, 163%, 120.309 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    18m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:132% /33.877M, 37.298k/s, -
+ *                          Carte_CBarbier_1.psd:191% /21.480M, 37.494k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:179% /26.502M, 54.044k/s, -
+
+2022/02/21 08:56:20 INFO  : 
+Transferred:   	  141.025M / 82.054 MBytes, 172%, 120.375 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    19m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:140% /33.877M, 34.002k/s, -
+ *                          Carte_CBarbier_1.psd:203% /21.480M, 52.651k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:186% /26.502M, 40.513k/s, -
+
+2022/02/21 08:57:20 INFO  : 
+Transferred:   	  148.310M / 82.054 MBytes, 181%, 120.563 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    20m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:147% /33.877M, 34.496k/s, -
+ *                          Carte_CBarbier_1.psd:215% /21.480M, 47.245k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:195% /26.502M, 47.898k/s, -
+
+2022/02/21 08:58:20 INFO  : 
+Transferred:   	  154.842M / 82.054 MBytes, 189%, 120.151 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    21m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:153% /33.877M, 42.789k/s, -
+ *                          Carte_CBarbier_1.psd:225% /21.480M, 32.067k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:204% /26.502M, 43.488k/s, -
+
+2022/02/21 08:59:20 INFO  : 
+Transferred:   	  162.094M / 82.054 MBytes, 198%, 120.308 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    22m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:161% /33.877M, 41.995k/s, -
+ *                          Carte_CBarbier_1.psd:236% /21.480M, 27.161k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:212% /26.502M, 47.548k/s, -
+
+2022/02/21 09:00:20 INFO  : 
+Transferred:   	  169.315M / 82.054 MBytes, 206%, 120.430 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    23m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:169% /33.877M, 50.552k/s, -
+ *                          Carte_CBarbier_1.psd:245% /21.480M, 24.149k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:221% /26.502M, 35.674k/s, -
+
+2022/02/21 09:01:20 INFO  : 
+Transferred:   	  176.066M / 82.054 MBytes, 215%, 120.222 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    24m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:177% /33.877M, 45.140k/s, -
+ *                          Carte_CBarbier_1.psd:254% /21.480M, 26.949k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:230% /26.502M, 45.297k/s, -
+
+2022/02/21 09:02:20 INFO  : 
+Transferred:   	  183.287M / 82.054 MBytes, 223%, 120.337 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    25m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:183% /33.877M, 42.688k/s, -
+ *                          Carte_CBarbier_1.psd:266% /21.480M, 40.738k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:239% /26.502M, 42.001k/s, -
+
+2022/02/21 09:03:20 INFO  : 
+Transferred:   	  190.425M / 82.054 MBytes, 232%, 120.393 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    26m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:190% /33.877M, 42.547k/s, -
+ *                          Carte_CBarbier_1.psd:275% /21.480M, 33.797k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:250% /26.502M, 50.598k/s, -
+
+2022/02/21 09:04:20 INFO  : 
+Transferred:   	  197.645M / 82.054 MBytes, 241%, 120.494 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    27m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:196% /33.877M, 32.374k/s, -
+ *                          Carte_CBarbier_1.psd:288% /21.480M, 51.874k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:260% /26.502M, 40.130k/s, -
+
+2022/02/21 09:05:20 INFO  : 
+Transferred:   	  204.868M / 82.054 MBytes, 250%, 120.589 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    28m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:201% /33.877M, 43.233k/s, -
+ *                          Carte_CBarbier_1.psd:301% /21.480M, 47.669k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:269% /26.502M, 41.068k/s, -
+
+2022/02/21 09:06:20 INFO  : 
+Transferred:   	  212.057M / 82.054 MBytes, 258%, 120.659 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    29m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:207% /33.877M, 30.622k/s, -
+ *                          Carte_CBarbier_1.psd:315% /21.480M, 46.897k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:278% /26.502M, 42.797k/s, -
+
+2022/02/21 09:07:20 INFO  : 
+Transferred:   	  219.153M / 82.054 MBytes, 267%, 120.674 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    30m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:212% /33.877M, 33.381k/s, -
+ *                          Carte_CBarbier_1.psd:331% /21.480M, 57.921k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:286% /26.502M, 32.101k/s, -
+
+2022/02/21 09:08:20 INFO  : 
+Transferred:   	  226.436M / 82.054 MBytes, 276%, 120.787 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    31m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:219% /33.877M, 39.642k/s, -
+ *                          Carte_CBarbier_1.psd:340% /21.480M, 37.206k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:296% /26.502M, 51.664k/s, -
+
+2022/02/21 09:09:20 INFO  : 
+Transferred:   	  233.625M / 82.054 MBytes, 285%, 120.845 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    32m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:226% /33.877M, 29.257k/s, -
+ *                          Carte_CBarbier_1.psd:350% /21.480M, 25.632k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:307% /26.502M, 54.632k/s, -
+
+2022/02/21 09:10:20 INFO  : 
+Transferred:   	  240.595M / 82.054 MBytes, 293%, 120.789 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    33m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:235% /33.877M, 53.445k/s, -
+ *                          Carte_CBarbier_1.psd:359% /21.480M, 34.239k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:315% /26.502M, 29.791k/s, -
+
+2022/02/21 09:11:20 INFO  : 
+Transferred:   	  248.097M / 82.054 MBytes, 302%, 120.996 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    34m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:243% /33.877M, 43.026k/s, -
+ *                          Carte_CBarbier_1.psd:370% /21.480M, 41.016k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:323% /26.502M, 43.061k/s, -
+
+2022/02/21 09:12:20 INFO  : 
+Transferred:   	  255.081M / 82.054 MBytes, 311%, 120.945 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    35m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:251% /33.877M, 55.991k/s, -
+ *                          Carte_CBarbier_1.psd:381% /21.480M, 40.312k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:331% /26.502M, 31.365k/s, -
+
+2022/02/21 09:13:20 INFO  : 
+Transferred:   	  262.332M / 82.054 MBytes, 320%, 121.021 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    36m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:258% /33.877M, 42.752k/s, -
+ *                          Carte_CBarbier_1.psd:391% /21.480M, 42.596k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:340% /26.502M, 45.820k/s, -
+
+2022/02/21 09:14:20 INFO  : 
+Transferred:   	  269.428M / 82.054 MBytes, 328%, 121.023 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    37m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:264% /33.877M, 41.277k/s, -
+ *                          Carte_CBarbier_1.psd:404% /21.480M, 48.496k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:349% /26.502M, 38.247k/s, -
+
+2022/02/21 09:15:20 INFO  : 
+Transferred:   	  276.555M / 82.054 MBytes, 337%, 121.039 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    38m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:270% /33.877M, 33.944k/s, -
+ *                          Carte_CBarbier_1.psd:416% /21.480M, 44.252k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:359% /26.502M, 43.856k/s, -
+
+2022/02/21 09:16:20 INFO  : 
+Transferred:   	  283.746M / 82.054 MBytes, 346%, 121.082 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    39m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:277% /33.877M, 39.887k/s, -
+ *                          Carte_CBarbier_1.psd:429% /21.480M, 55.633k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:367% /26.502M, 36.585k/s, -
+
+2022/02/21 09:17:20 INFO  : 
+Transferred:   	  290.935M / 82.054 MBytes, 355%, 121.121 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    40m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:284% /33.877M, 46.809k/s, -
+ *                          Carte_CBarbier_1.psd:440% /21.480M, 39.302k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:376% /26.502M, 39.517k/s, -
+
+2022/02/21 09:18:20 INFO  : 
+Transferred:   	  298.187M / 82.054 MBytes, 363%, 121.184 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    41m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:291% /33.877M, 38.996k/s, -
+ *                          Carte_CBarbier_1.psd:451% /21.480M, 41.077k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:386% /26.502M, 42.299k/s, -
+
+2022/02/21 09:19:20 INFO  : 
+Transferred:   	  305.251M / 82.054 MBytes, 372%, 121.170 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    42m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:297% /33.877M, 40.680k/s, -
+ *                          Carte_CBarbier_1.psd:462% /21.480M, 38.762k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:396% /26.502M, 42.003k/s, -
+
+2022/02/21 09:20:20 INFO  : 
+Transferred:   	  312.534M / 82.054 MBytes, 381%, 121.240 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    43m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:304% /33.877M, 45.681k/s, -
+ *                          Carte_CBarbier_1.psd:472% /21.480M, 35.878k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:406% /26.502M, 46.901k/s, -
+
+2022/02/21 09:21:20 INFO  : 
+Transferred:   	  319.578M / 82.054 MBytes, 389%, 121.218 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    44m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:311% /33.877M, 37.127k/s, -
+ *                          Carte_CBarbier_1.psd:479% /21.480M, 30.014k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:417% /26.502M, 44.977k/s, -
+
+2022/02/21 09:22:20 INFO  : 
+Transferred:   	  327.018M / 82.054 MBytes, 399%, 121.343 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    45m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:316% /33.877M, 34.739k/s, -
+ *                          Carte_CBarbier_1.psd:490% /21.480M, 39.560k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:430% /26.502M, 52.636k/s, -
+
+2022/02/21 09:23:20 INFO  : 
+Transferred:   	  334.050M / 82.054 MBytes, 407%, 121.314 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    46m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:324% /33.877M, 37.888k/s, -
+ *                          Carte_CBarbier_1.psd:501% /21.480M, 44.635k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:438% /26.502M, 44.393k/s, -
+
+2022/02/21 09:24:20 INFO  : 
+Transferred:   	  341.083M / 82.054 MBytes, 416%, 121.288 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    47m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:331% /33.877M, 38.794k/s, -
+ *                          Carte_CBarbier_1.psd:513% /21.480M, 45.441k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:446% /26.502M, 30.724k/s, -
+
+2022/02/21 09:25:20 INFO  : 
+Transferred:   	  348.585M / 82.054 MBytes, 425%, 121.426 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    48m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:338% /33.877M, 48.067k/s, -
+ *                          Carte_CBarbier_1.psd:526% /21.480M, 40.125k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:455% /26.502M, 42.604k/s, -
+
+2022/02/21 09:26:20 INFO  : 
+Transferred:   	  355.524M / 82.054 MBytes, 433%, 121.366 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    49m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:344% /33.877M, 40.073k/s, -
+ *                          Carte_CBarbier_1.psd:539% /21.480M, 51.514k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:463% /26.502M, 31.034k/s, -
+
+2022/02/21 09:27:20 INFO  : 
+Transferred:   	  362.749M / 82.054 MBytes, 442%, 121.403 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    50m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:351% /33.877M, 38.134k/s, -
+ *                          Carte_CBarbier_1.psd:551% /21.480M, 42.674k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:472% /26.502M, 44.919k/s, -
+
+2022/02/21 09:28:20 INFO  : 
+Transferred:   	  369.907M / 82.054 MBytes, 451%, 121.418 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    51m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:358% /33.877M, 43.479k/s, -
+ *                          Carte_CBarbier_1.psd:559% /21.480M, 22.996k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:482% /26.502M, 56.072k/s, -
+
+2022/02/21 09:29:20 INFO  : 
+Transferred:   	  377.096M / 82.054 MBytes, 460%, 121.442 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    52m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:366% /33.877M, 39.820k/s, -
+ *                          Carte_CBarbier_1.psd:567% /21.480M, 27.981k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:493% /26.502M, 50.294k/s, -
+
+2022/02/21 09:30:20 INFO  : 
+Transferred:   	  384.484M / 82.054 MBytes, 469%, 121.528 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    53m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:374% /33.877M, 57.588k/s, -
+ *                          Carte_CBarbier_1.psd:578% /21.480M, 31.488k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:501% /26.502M, 38.016k/s, -
+
+2022/02/21 09:31:20 INFO  : 
+Transferred:   	  391.579M / 82.054 MBytes, 477%, 121.521 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    54m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:381% /33.877M, 44.594k/s, -
+ *                          Carte_CBarbier_1.psd:589% /21.480M, 34.487k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:512% /26.502M, 47.761k/s, -
+
+2022/02/21 09:32:20 INFO  : 
+Transferred:   	  398.737M / 82.054 MBytes, 486%, 121.532 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    55m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:388% /33.877M, 47.911k/s, -
+ *                          Carte_CBarbier_1.psd:599% /21.480M, 36.579k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:522% /26.502M, 42.269k/s, -
+
+2022/02/21 09:33:20 INFO  : 
+Transferred:   	  405.989M / 82.054 MBytes, 495%, 121.571 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    56m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:394% /33.877M, 28.188k/s, -
+ *                          Carte_CBarbier_1.psd:612% /21.480M, 58.215k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:529% /26.502M, 31.110k/s, -
+
+2022/02/21 09:34:20 INFO  : 
+Transferred:   	  413.085M / 82.054 MBytes, 503%, 121.562 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    57m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:400% /33.877M, 30.324k/s, -
+ *                          Carte_CBarbier_1.psd:625% /21.480M, 45.975k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:538% /26.502M, 36.665k/s, -
+
+2022/02/21 09:35:20 INFO  : 
+Transferred:   	  420.024M / 82.054 MBytes, 512%, 121.510 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    58m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:404% /33.877M, 24.798k/s, -
+ *                          Carte_CBarbier_1.psd:638% /21.480M, 46.777k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:549% /26.502M, 38.617k/s, -
+
+2022/02/21 09:36:20 INFO  : 
+Transferred:   	  427.432M / 82.054 MBytes, 521%, 121.592 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:    59m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:412% /33.877M, 41.100k/s, -
+ *                          Carte_CBarbier_1.psd:648% /21.480M, 44.067k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:558% /26.502M, 34.022k/s, -
+
+2022/02/21 09:37:20 INFO  : 
+Transferred:   	  433.810M / 82.054 MBytes, 529%, 121.383 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:   1h0m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:418% /33.877M, 34.274k/s, -
+ *                          Carte_CBarbier_1.psd:660% /21.480M, 46.557k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:565% /26.502M, 21.087k/s, -
+
+2022/02/21 09:38:20 INFO  : 
+Transferred:   	  441.323M / 82.054 MBytes, 538%, 121.493 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:   1h1m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:425% /33.877M, 38.926k/s, -
+ *                          Carte_CBarbier_1.psd:673% /21.480M, 31.296k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:575% /26.502M, 49.079k/s, -
+
+2022/02/21 09:39:20 INFO  : 
+Transferred:   	  448.669M / 82.054 MBytes, 547%, 121.555 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:   1h2m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:432% /33.877M, 38.640k/s, -
+ *                          Carte_CBarbier_1.psd:682% /21.480M, 27.479k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:586% /26.502M, 61.013k/s, -
+
+2022/02/21 09:40:20 INFO  : 
+Transferred:   	  455.764M / 82.054 MBytes, 555%, 121.548 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:   1h3m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:439% /33.877M, 41.361k/s, -
+ *                          Carte_CBarbier_1.psd:691% /21.480M, 43.245k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:596% /26.502M, 41.523k/s, -
+
+2022/02/21 09:41:20 INFO  : 
+Transferred:   	  462.549M / 82.054 MBytes, 564%, 121.459 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:   1h4m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:446% /33.877M, 20.171k/s, -
+ *                          Carte_CBarbier_1.psd:702% /21.480M, 44.645k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:605% /26.502M, 42.545k/s, -
+
+2022/02/21 09:42:20 INFO  : 
+Transferred:   	  469.926M / 82.054 MBytes, 573%, 121.526 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:   1h5m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:453% /33.877M, 37.153k/s, -
+ *                          Carte_CBarbier_1.psd:714% /21.480M, 41.664k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:613% /26.502M, 35.004k/s, -
+
+2022/02/21 09:43:20 INFO  : 
+Transferred:   	  477.178M / 82.054 MBytes, 582%, 121.560 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:   1h6m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:460% /33.877M, 41.048k/s, -
+ *                          Carte_CBarbier_1.psd:728% /21.480M, 54.734k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:621% /26.502M, 29.246k/s, -
+
+2022/02/21 09:44:20 INFO  : 
+Transferred:   	  484.492M / 82.054 MBytes, 590%, 121.607 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:   1h7m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:467% /33.877M, 49.176k/s, -
+ *                          Carte_CBarbier_1.psd:741% /21.480M, 43.846k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:628% /26.502M, 32.290k/s, -
+
+2022/02/21 09:45:20 INFO  : 
+Transferred:   	  491.463M / 82.054 MBytes, 599%, 121.569 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:   1h8m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:475% /33.877M, 53.642k/s, -
+ *                          Carte_CBarbier_1.psd:752% /21.480M, 38.104k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:635% /26.502M, 28.253k/s, -
+
+2022/02/21 09:46:20 INFO  : 
+Transferred:   	  498.746M / 82.054 MBytes, 608%, 121.608 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:   1h9m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:483% /33.877M, 47.526k/s, -
+ *                          Carte_CBarbier_1.psd:762% /21.480M, 38.062k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:645% /26.502M, 40.305k/s, -
+
+2022/02/21 09:47:20 INFO  : 
+Transferred:   	  505.935M / 82.054 MBytes, 617%, 121.624 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h10m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:490% /33.877M, 43.393k/s, -
+ *                          Carte_CBarbier_1.psd:774% /21.480M, 46.786k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:653% /26.502M, 39.051k/s, -
+
+2022/02/21 09:48:20 INFO  : 
+Transferred:   	  512.686M / 82.054 MBytes, 625%, 121.535 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h11m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:497% /33.877M, 36.315k/s, -
+ *                          Carte_CBarbier_1.psd:784% /21.480M, 39.509k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:661% /26.502M, 42.687k/s, -
+
+2022/02/21 09:49:20 INFO  : 
+Transferred:   	  519.907M / 82.054 MBytes, 634%, 121.558 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h12m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:505% /33.877M, 42.757k/s, -
+ *                          Carte_CBarbier_1.psd:794% /21.480M, 39.072k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:671% /26.502M, 49.325k/s, -
+
+2022/02/21 09:50:20 INFO  : 
+Transferred:   	  527.002M / 82.054 MBytes, 642%, 121.552 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h13m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:512% /33.877M, 46.078k/s, -
+ *                          Carte_CBarbier_1.psd:805% /21.480M, 42.678k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:679% /26.502M, 38.609k/s, -
+
+2022/02/21 09:51:20 INFO  : 
+Transferred:   	  534.192M / 82.054 MBytes, 651%, 121.567 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h14m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:520% /33.877M, 48.502k/s, -
+ *                          Carte_CBarbier_1.psd:813% /21.480M, 28.298k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:690% /26.502M, 47.569k/s, -
+
+2022/02/21 09:52:20 INFO  : 
+Transferred:   	  541.412M / 82.054 MBytes, 660%, 121.589 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h15m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:529% /33.877M, 44.805k/s, -
+ *                          Carte_CBarbier_1.psd:823% /21.480M, 39.884k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:698% /26.502M, 44.164k/s, -
+
+2022/02/21 09:53:20 INFO  : 
+Transferred:   	  548.613M / 82.054 MBytes, 669%, 121.605 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h16m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:537% /33.877M, 49.896k/s, -
+ *                          Carte_CBarbier_1.psd:832% /21.480M, 34.073k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:707% /26.502M, 44.207k/s, -
+
+2022/02/21 09:54:20 INFO  : 
+Transferred:   	  555.802M / 82.054 MBytes, 677%, 121.620 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h17m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:544% /33.877M, 37.896k/s, -
+ *                          Carte_CBarbier_1.psd:842% /21.480M, 32.960k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:718% /26.502M, 50.612k/s, -
+
+2022/02/21 09:55:20 INFO  : 
+Transferred:   	  562.776M / 82.054 MBytes, 686%, 121.587 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h18m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:550% /33.877M, 45.846k/s, -
+ *                          Carte_CBarbier_1.psd:855% /21.480M, 37.577k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:725% /26.502M, 36.322k/s, -
+
+2022/02/21 09:56:20 INFO  : 
+Transferred:   	  570.215M / 82.054 MBytes, 695%, 121.654 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h19m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:557% /33.877M, 49.785k/s, -
+ *                          Carte_CBarbier_1.psd:866% /21.480M, 44.326k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:735% /26.502M, 39.857k/s, -
+
+2022/02/21 09:57:20 INFO  : 
+Transferred:   	  577.186M / 82.054 MBytes, 703%, 121.621 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h20m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:564% /33.877M, 42.652k/s, -
+ *                          Carte_CBarbier_1.psd:874% /21.480M, 28.008k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:746% /26.502M, 49.957k/s, -
+
+2022/02/21 09:58:20 INFO  : 
+Transferred:   	  584.406M / 82.054 MBytes, 712%, 121.641 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h21m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:571% /33.877M, 35.676k/s, -
+ *                          Carte_CBarbier_1.psd:884% /21.480M, 29.837k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:756% /26.502M, 54.564k/s, -
+
+2022/02/21 09:59:20 INFO  : 
+Transferred:   	  591.721M / 82.054 MBytes, 721%, 121.679 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h22m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:578% /33.877M, 45.154k/s, -
+ *                          Carte_CBarbier_1.psd:894% /21.480M, 37.152k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:768% /26.502M, 48.759k/s, -
+
+2022/02/21 10:00:20 INFO  : 
+Transferred:   	  598.847M / 82.054 MBytes, 730%, 121.679 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h23m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:588% /33.877M, 58.854k/s, -
+ *                          Carte_CBarbier_1.psd:902% /21.480M, 42.286k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:775% /26.502M, 26.017k/s, -
+
+2022/02/21 10:01:20 INFO  : 
+Transferred:   	  606.130M / 82.054 MBytes, 739%, 121.709 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h24m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:595% /33.877M, 47.760k/s, -
+ *                          Carte_CBarbier_1.psd:911% /21.480M, 31.558k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:786% /26.502M, 40.363k/s, -
+
+2022/02/21 10:02:20 INFO  : 
+Transferred:   	  613.132M / 82.054 MBytes, 747%, 121.684 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h25m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:604% /33.877M, 46.710k/s, -
+ *                          Carte_CBarbier_1.psd:921% /21.480M, 37.475k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:794% /26.502M, 37.568k/s, -
+
+2022/02/21 10:03:20 INFO  : 
+Transferred:   	  620.114M / 82.054 MBytes, 756%, 121.654 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 7, 57%
+Elapsed time:  1h26m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:613% /33.877M, 53.775k/s, -
+ *                          Carte_CBarbier_1.psd:928% /21.480M, 20.796k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:802% /26.502M, 34.236k/s, -
+
+2022/02/21 10:03:27 ERROR : Carte_CBarbier_1.psd: Failed to copy: "letian2105/files/rclone/o3ja8nlt62lac4skh0f1mtjhc0/659oatn7mkk0ckq2dtkvkl25duqdl62gcaiieno0fed2en26h2l0.upload.part" is locked, existing lock on file: exclusive: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 10:04:20 INFO  : 
+Transferred:   	  627.553M / 259.932 MBytes, 241%, 121.715 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 6, 67%
+Elapsed time:  1h27m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:623% /33.877M, 45.390k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:818% /26.502M, 84.193k/s, -
+
+2022/02/21 10:05:20 INFO  : 
+Transferred:   	  634.838M / 259.932 MBytes, 244%, 121.744 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 6, 67%
+Elapsed time:  1h28m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:637% /33.877M, 68.031k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:827% /26.502M, 42.778k/s, -
+
+2022/02/21 10:06:20 INFO  : 
+Transferred:   	  642.121M / 259.932 MBytes, 247%, 121.772 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 6, 67%
+Elapsed time:  1h29m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:648% /33.877M, 60.374k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:840% /26.502M, 66.113k/s, -
+
+2022/02/21 10:07:20 INFO  : 
+Transferred:   	  649.373M / 259.932 MBytes, 250%, 121.794 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 6, 67%
+Elapsed time:  1h30m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:659% /33.877M, 53.923k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:853% /26.502M, 66.411k/s, -
+
+2022/02/21 10:08:20 INFO  : 
+Transferred:   	  656.625M / 259.932 MBytes, 253%, 121.815 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 6, 67%
+Elapsed time:  1h31m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:669% /33.877M, 56.456k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:868% /26.502M, 78.909k/s, -
+
+2022/02/21 10:09:20 INFO  : 
+Transferred:   	  663.689M / 259.932 MBytes, 255%, 121.802 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 6, 67%
+Elapsed time:  1h32m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:679% /33.877M, 59.245k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:883% /26.502M, 68.116k/s, -
+
+2022/02/21 10:10:20 INFO  : 
+Transferred:   	  670.816M / 259.932 MBytes, 258%, 121.801 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 6, 67%
+Elapsed time:  1h33m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:689% /33.877M, 65.981k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:896% /26.502M, 59.614k/s, -
+
+2022/02/21 10:11:20 INFO  : 
+Transferred:   	  677.880M / 259.932 MBytes, 261%, 121.787 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 6, 67%
+Elapsed time:  1h34m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:700% /33.877M, 61.661k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:909% /26.502M, 56.662k/s, -
+
+2022/02/21 10:12:20 INFO  : 
+Transferred:   	  684.946M / 259.932 MBytes, 264%, 121.775 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 6, 67%
+Elapsed time:  1h35m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:711% /33.877M, 56.075k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:921% /26.502M, 46.392k/s, -
+
+2022/02/21 10:12:23 ERROR : ESPE/Mémoire Master MEEF.pptx: Failed to copy: "letian2105/files/rclone/o3ja8nlt62lac4skh0f1mtjhc0/a2536946isg67hj9582hvc8sss/ghksippo8cmej4qjdoja6afk7p719ecp6857378qk679h6s4o1b0.upload.part" is locked, existing lock on file: exclusive: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 10:13:20 INFO  : 
+Transferred:   	  691.731M / 477.692 MBytes, 145%, 121.713 kBytes/s, ETA -
+Errors:                 6 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 5, 80%
+Elapsed time:  1h36m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:731% /33.877M, 120.765k/s, -
+
+2022/02/21 10:14:20 INFO  : 
+Transferred:   	  698.920M / 477.692 MBytes, 146%, 121.724 kBytes/s, ETA -
+Errors:                 6 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 5, 80%
+Elapsed time:  1h37m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:753% /33.877M, 124.416k/s, -
+
+2022/02/21 10:15:20 INFO  : 
+Transferred:   	  706.109M / 477.692 MBytes, 148%, 121.733 kBytes/s, ETA -
+Errors:                 6 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 5, 80%
+Elapsed time:  1h38m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:774% /33.877M, 126.470k/s, -
+
+2022/02/21 10:16:20 INFO  : 
+Transferred:   	  713.392M / 477.692 MBytes, 149%, 121.759 kBytes/s, ETA -
+Errors:                 6 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 5, 80%
+Elapsed time:  1h39m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:795% /33.877M, 130.437k/s, -
+
+2022/02/21 10:17:20 INFO  : 
+Transferred:   	  720.644M / 477.692 MBytes, 151%, 121.778 kBytes/s, ETA -
+Errors:                 6 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 5, 80%
+Elapsed time:  1h40m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:817% /33.877M, 119.615k/s, -
+
+2022/02/21 10:18:20 INFO  : 
+Transferred:   	  727.397M / 477.692 MBytes, 152%, 121.715 kBytes/s, ETA -
+Errors:                 6 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 5, 80%
+Elapsed time:  1h41m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:837% /33.877M, 128.383k/s, -
+
+2022/02/21 10:19:20 INFO  : 
+Transferred:   	  734.618M / 477.692 MBytes, 154%, 121.729 kBytes/s, ETA -
+Errors:                 6 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 5, 80%
+Elapsed time:  1h42m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:858% /33.877M, 130.786k/s, -
+
+2022/02/21 10:20:20 INFO  : 
+Transferred:   	  741.745M / 477.692 MBytes, 155%, 121.729 kBytes/s, ETA -
+Errors:                 6 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 5, 80%
+Elapsed time:  1h43m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:879% /33.877M, 128.703k/s, -
+
+2022/02/21 10:21:20 INFO  : 
+Transferred:   	  748.934M / 477.692 MBytes, 157%, 121.737 kBytes/s, ETA -
+Errors:                 6 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 5, 80%
+Elapsed time:  1h44m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:900% /33.877M, 129.352k/s, -
+
+2022/02/21 10:22:20 INFO  : 
+Transferred:   	  755.875M / 477.692 MBytes, 158%, 121.707 kBytes/s, ETA -
+Errors:                 6 (retrying may help)
+Checks:               633 / 633, 100%
+Transferred:            4 / 5, 80%
+Elapsed time:  1h45m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:921% /33.877M, 113.350k/s, -
+
+2022/02/21 10:22:24 ERROR : CI_CBarbierl.psd: Failed to copy: "letian2105/files/rclone/o3ja8nlt62lac4skh0f1mtjhc0/59gq1frfbkblettqbqcsca60je99ttf4hplqj7vhq6me1m5i9l70.upload.part" is locked, existing lock on file: exclusive: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 10:22:24 ERROR : Encrypted drive 'FarmCrypt:/Docs/': not deleting files as there were IO errors
+2022/02/21 10:22:24 ERROR : Encrypted drive 'FarmCrypt:/Docs/': not deleting directories as there were IO errors
+2022/02/21 10:22:24 ERROR : Attempt 1/3 failed with 9 errors and: "letian2105/files/rclone/o3ja8nlt62lac4skh0f1mtjhc0/59gq1frfbkblettqbqcsca60je99ttf4hplqj7vhq6me1m5i9l70.upload.part" is locked, existing lock on file: exclusive: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 10:22:32 INFO  : Linux/ASTUCES/Corbeille NTFS.fr.desktop: Copied (new)
+2022/02/21 10:22:33 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for checks to finish
+2022/02/21 10:22:33 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for transfers to finish
+2022/02/21 10:22:34 INFO  : Linux/ASTUCES/Lien vers tutoriel:creer_corbeille_partition_ntfs [Wiki ubuntu-fr]: Copied (new)
+2022/02/21 10:23:20 INFO  : 
+Transferred:   	  762.627M / 837.734 MBytes, 91%, 121.667 kBytes/s, ETA 10m32s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h46m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:  5% /33.877M, 33.192k/s, 16m24s
+ *                          Carte_CBarbier_1.psd: 10% /21.480M, 41.674k/s, 7m52s
+ *                 ESPE/Mémoire Master MEEF.pptx:  9% /26.502M, 49.894k/s, 8m11s
+
+2022/02/21 10:24:20 INFO  : 
+Transferred:   	  769.816M / 837.734 MBytes, 92%, 121.677 kBytes/s, ETA 9m31s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h47m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 11% /33.877M, 33.413k/s, 15m13s
+ *                          Carte_CBarbier_1.psd: 20% /21.480M, 35.872k/s, 8m8s
+ *                 ESPE/Mémoire Master MEEF.pptx: 20% /26.502M, 50.969k/s, 7m1s
+
+2022/02/21 10:25:20 INFO  : 
+Transferred:   	  777.068M / 837.734 MBytes, 93%, 121.695 kBytes/s, ETA 8m30s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h48m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 17% /33.877M, 30.791k/s, 15m24s
+ *                          Carte_CBarbier_1.psd: 29% /21.480M, 37.841k/s, 6m49s
+ *                 ESPE/Mémoire Master MEEF.pptx: 33% /26.502M, 56.965k/s, 5m18s
+
+2022/02/21 10:26:20 INFO  : 
+Transferred:   	  784.414M / 837.734 MBytes, 94%, 121.729 kBytes/s, ETA 7m28s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h49m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 24% /33.877M, 41.002k/s, 10m36s
+ *                          Carte_CBarbier_1.psd: 40% /21.480M, 39.694k/s, 5m32s
+ *                 ESPE/Mémoire Master MEEF.pptx: 43% /26.502M, 42.538k/s, 6m0s
+
+2022/02/21 10:27:20 INFO  : 
+Transferred:   	  791.478M / 837.734 MBytes, 94%, 121.719 kBytes/s, ETA 6m29s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h50m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 32% /33.877M, 38.558k/s, 10m11s
+ *                          Carte_CBarbier_1.psd: 48% /21.480M, 27.572k/s, 6m54s
+ *                 ESPE/Mémoire Master MEEF.pptx: 54% /26.502M, 58.428k/s, 3m31s
+
+2022/02/21 10:28:20 INFO  : 
+Transferred:   	  798.605M / 837.734 MBytes, 95%, 121.718 kBytes/s, ETA 5m29s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h51m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 38% /33.877M, 38.051k/s, 9m20s
+ *                          Carte_CBarbier_1.psd: 57% /21.480M, 30.116k/s, 5m13s
+ *                 ESPE/Mémoire Master MEEF.pptx: 65% /26.502M, 51.727k/s, 2m59s
+
+2022/02/21 10:29:20 INFO  : 
+Transferred:   	  805.919M / 837.734 MBytes, 96%, 121.745 kBytes/s, ETA 4m27s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h52m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 44% /33.877M, 43.043k/s, 7m24s
+ *                          Carte_CBarbier_1.psd: 64% /21.480M, 29.398k/s, 4m25s
+ *                 ESPE/Mémoire Master MEEF.pptx: 79% /26.502M, 45.395k/s, 2m3s
+
+2022/02/21 10:30:20 INFO  : 
+Transferred:   	  813.108M / 837.734 MBytes, 97%, 121.754 kBytes/s, ETA 3m27s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h53m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 50% /33.877M, 34.084k/s, 8m22s
+ *                          Carte_CBarbier_1.psd: 74% /21.480M, 33.598k/s, 2m47s
+ *                 ESPE/Mémoire Master MEEF.pptx: 90% /26.502M, 58.399k/s, 42s
+
+2022/02/21 10:31:20 INFO  : 
+Transferred:   	  820.049M / 837.734 MBytes, 98%, 121.725 kBytes/s, ETA 2m28s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h54m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 57% /33.877M, 45.808k/s, 5m21s
+ *                          Carte_CBarbier_1.psd: 84% /21.480M, 44.122k/s, 1m16s
+ *                 ESPE/Mémoire Master MEEF.pptx:100% /26.502M, 24.093k/s, -
+
+2022/02/21 10:32:20 INFO  : 
+Transferred:   	  827.520M / 837.734 MBytes, 99%, 121.774 kBytes/s, ETA 1m25s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h55m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 63% /33.877M, 31.438k/s, 6m40s
+ *                          Carte_CBarbier_1.psd: 96% /21.480M, 41.536k/s, 19s
+ *                 ESPE/Mémoire Master MEEF.pptx:110% /26.502M, 47.287k/s, -
+
+2022/02/21 10:33:20 INFO  : 
+Transferred:   	  834.502M / 837.734 MBytes, 100%, 121.752 kBytes/s, ETA 27s
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h56m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 72% /33.877M, 58.161k/s, 2m41s
+ *                          Carte_CBarbier_1.psd:100% /21.480M, 7.046k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:122% /26.502M, 55.251k/s, -
+
+2022/02/21 10:34:20 INFO  : 
+Transferred:   	  841.941M / 837.734 MBytes, 101%, 121.797 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h57m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 80% /33.877M, 32.921k/s, 3m28s
+ *                          Carte_CBarbier_1.psd:111% /21.480M, 42.359k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:131% /26.502M, 50.400k/s, -
+
+2022/02/21 10:35:20 INFO  : 
+Transferred:   	  849.193M / 837.734 MBytes, 101%, 121.813 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h58m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 87% /33.877M, 35.563k/s, 2m4s
+ *                          Carte_CBarbier_1.psd:123% /21.480M, 38.685k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:140% /26.502M, 43.064k/s, -
+
+2022/02/21 10:36:20 INFO  : 
+Transferred:   	  856.444M / 837.734 MBytes, 102%, 121.829 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  1h59m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 93% /33.877M, 31.572k/s, 1m12s
+ *                          Carte_CBarbier_1.psd:132% /21.480M, 45.510k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:152% /26.502M, 56.306k/s, -
+
+2022/02/21 10:37:20 INFO  : 
+Transferred:   	  863.665M / 837.734 MBytes, 103%, 121.841 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   2h0m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd: 99% /33.877M, 38.951k/s, 5s
+ *                          Carte_CBarbier_1.psd:142% /21.480M, 34.736k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:164% /26.502M, 59.003k/s, -
+
+2022/02/21 10:38:20 INFO  : 
+Transferred:   	  870.575M / 837.734 MBytes, 104%, 121.809 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   2h1m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:104% /33.877M, 34.519k/s, -
+ *                          Carte_CBarbier_1.psd:155% /21.480M, 40.140k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:174% /26.502M, 41.052k/s, -
+
+2022/02/21 10:39:20 INFO  : 
+Transferred:   	  877.889M / 837.734 MBytes, 105%, 121.833 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   2h2m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:110% /33.877M, 25.833k/s, -
+ *                          Carte_CBarbier_1.psd:166% /21.480M, 49.607k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:184% /26.502M, 47.982k/s, -
+
+2022/02/21 10:40:20 INFO  : 
+Transferred:   	  884.985M / 837.734 MBytes, 106%, 121.827 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   2h3m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:117% /33.877M, 39.638k/s, -
+ *                          Carte_CBarbier_1.psd:177% /21.480M, 38.620k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:193% /26.502M, 39.231k/s, -
+
+2022/02/21 10:41:20 INFO  : 
+Transferred:   	  892.394M / 837.734 MBytes, 107%, 121.864 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   2h4m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:124% /33.877M, 50.346k/s, -
+ *                          Carte_CBarbier_1.psd:188% /21.480M, 43.917k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:202% /26.502M, 40.579k/s, -
+
+2022/02/21 10:42:20 INFO  : 
+Transferred:   	  899.396M / 837.734 MBytes, 107%, 121.846 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   2h5m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:131% /33.877M, 39.127k/s, -
+ *                          Carte_CBarbier_1.psd:198% /21.480M, 37.657k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:212% /26.502M, 42.239k/s, -
+
+2022/02/21 10:43:20 INFO  : 
+Transferred:   	  906.847M / 837.734 MBytes, 108%, 121.888 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   2h6m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:137% /33.877M, 33.435k/s, -
+ *                          Carte_CBarbier_1.psd:211% /21.480M, 50.681k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:222% /26.502M, 41.109k/s, -
+
+2022/02/21 10:44:20 INFO  : 
+Transferred:   	  913.911M / 837.734 MBytes, 109%, 121.877 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   2h7m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:143% /33.877M, 40.616k/s, -
+ *                          Carte_CBarbier_1.psd:226% /21.480M, 47.235k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:229% /26.502M, 43.360k/s, -
+
+2022/02/21 10:45:20 INFO  : 
+Transferred:   	  920.975M / 837.734 MBytes, 110%, 121.867 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   2h8m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:151% /33.877M, 47.988k/s, -
+ *                          Carte_CBarbier_1.psd:235% /21.480M, 33.193k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:238% /26.502M, 40.881k/s, -
+
+2022/02/21 10:46:20 INFO  : 
+Transferred:   	  928.258M / 837.734 MBytes, 111%, 121.886 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   2h9m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:159% /33.877M, 51.597k/s, -
+ *                          Carte_CBarbier_1.psd:243% /21.480M, 29.810k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:248% /26.502M, 46.297k/s, -
+
+2022/02/21 10:47:20 INFO  : 
+Transferred:   	  935.385M / 837.734 MBytes, 112%, 121.884 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h10m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:166% /33.877M, 34.182k/s, -
+ *                          Carte_CBarbier_1.psd:252% /21.480M, 34.132k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:260% /26.502M, 57.472k/s, -
+
+2022/02/21 10:48:20 INFO  : 
+Transferred:   	  942.574M / 837.734 MBytes, 113%, 121.890 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h11m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:172% /33.877M, 37.047k/s, -
+ *                          Carte_CBarbier_1.psd:263% /21.480M, 35.728k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:270% /26.502M, 51.093k/s, -
+
+2022/02/21 10:49:20 INFO  : 
+Transferred:   	  949.920M / 837.734 MBytes, 113%, 121.916 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h12m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:179% /33.877M, 36.513k/s, -
+ *                          Carte_CBarbier_1.psd:274% /21.480M, 46.087k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:279% /26.502M, 45.411k/s, -
+
+2022/02/21 10:50:20 INFO  : 
+Transferred:   	  956.921M / 837.734 MBytes, 114%, 121.898 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h13m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:186% /33.877M, 39.563k/s, -
+ *                          Carte_CBarbier_1.psd:284% /21.480M, 34.763k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:290% /26.502M, 38.166k/s, -
+
+2022/02/21 10:51:20 INFO  : 
+Transferred:   	  964.173M / 837.734 MBytes, 115%, 121.912 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h14m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:193% /33.877M, 39.606k/s, -
+ *                          Carte_CBarbier_1.psd:296% /21.480M, 45.310k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:298% /26.502M, 31.584k/s, -
+
+2022/02/21 10:52:20 INFO  : 
+Transferred:   	  971.252M / 837.734 MBytes, 116%, 121.903 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h15m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:200% /33.877M, 23.076k/s, -
+ *                          Carte_CBarbier_1.psd:306% /21.480M, 37.955k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:308% /26.502M, 52.650k/s, -
+
+2022/02/21 10:53:20 INFO  : 
+Transferred:   	  977.691M / 837.734 MBytes, 117%, 121.816 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h16m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:206% /33.877M, 46.938k/s, -
+ *                          Carte_CBarbier_1.psd:317% /21.480M, 31.232k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:316% /26.502M, 34.570k/s, -
+
+2022/02/21 10:54:20 INFO  : 
+Transferred:   	  984.756M / 837.734 MBytes, 118%, 121.807 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h17m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:213% /33.877M, 48.523k/s, -
+ *                          Carte_CBarbier_1.psd:327% /21.480M, 31.425k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:325% /26.502M, 45.133k/s, -
+
+2022/02/21 10:55:20 INFO  : 
+Transferred:   	  991.632M / 837.734 MBytes, 118%, 121.775 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h18m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:220% /33.877M, 37.203k/s, -
+ *                          Carte_CBarbier_1.psd:337% /21.480M, 31.033k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:334% /26.502M, 58.023k/s, -
+
+2022/02/21 10:56:20 INFO  : 
+Transferred:   	  998.665M / 837.734 MBytes, 119%, 121.763 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h19m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:227% /33.877M, 42.555k/s, -
+ *                          Carte_CBarbier_1.psd:346% /21.480M, 38.177k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:344% /26.502M, 47.349k/s, -
+
+2022/02/21 10:57:20 INFO  : 
+Transferred:   	 1005.823M / 837.734 MBytes, 120%, 121.766 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h20m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:234% /33.877M, 39.071k/s, -
+ *                          Carte_CBarbier_1.psd:358% /21.480M, 44.891k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:352% /26.502M, 34.888k/s, -
+
+2022/02/21 10:58:20 INFO  : 
+Transferred:   	 1012.669M / 837.734 MBytes, 121%, 121.730 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h21m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:240% /33.877M, 30.549k/s, -
+ *                          Carte_CBarbier_1.psd:370% /21.480M, 43.499k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:360% /26.502M, 41.723k/s, -
+
+2022/02/21 10:59:20 INFO  : 
+Transferred:   	 1019.545M / 837.734 MBytes, 122%, 121.700 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h22m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:248% /33.877M, 36.423k/s, -
+ *                          Carte_CBarbier_1.psd:380% /21.480M, 32.459k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:369% /26.502M, 46.354k/s, -
+
+2022/02/21 11:00:20 INFO  : 
+Transferred:   	    1.002G / 837.734 MBytes, 122%, 121.570 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h23m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:253% /33.877M, 39.617k/s, -
+ *                          Carte_CBarbier_1.psd:390% /21.480M, 38.860k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:376% /26.502M, 31.669k/s, -
+
+2022/02/21 11:01:20 INFO  : 
+Transferred:   	    1.008G / 837.734 MBytes, 123%, 121.533 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h24m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:260% /33.877M, 40.738k/s, -
+ *                          Carte_CBarbier_1.psd:400% /21.480M, 31.002k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:385% /26.502M, 39.289k/s, -
+
+2022/02/21 11:02:20 INFO  : 
+Transferred:   	    1.015G / 837.734 MBytes, 124%, 121.479 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h25m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:266% /33.877M, 41.335k/s, -
+ *                          Carte_CBarbier_1.psd:413% /21.480M, 35.922k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:392% /26.502M, 27.222k/s, -
+
+2022/02/21 11:03:20 INFO  : 
+Transferred:   	    1.020G / 837.734 MBytes, 125%, 121.299 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h26m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:272% /33.877M, 30.451k/s, -
+ *                          Carte_CBarbier_1.psd:421% /21.480M, 22.328k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:399% /26.502M, 19.168k/s, -
+
+2022/02/21 11:04:20 INFO  : 
+Transferred:   	    1.022G / 837.734 MBytes, 125%, 120.738 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h27m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:275% /33.877M, 11.236k/s, -
+ *                          Carte_CBarbier_1.psd:424% /21.480M, 9.086k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:402% /26.502M, 10.765k/s, -
+
+2022/02/21 11:05:20 INFO  : 
+Transferred:   	    1.025G / 837.734 MBytes, 125%, 120.211 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h28m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:277% /33.877M, 13.702k/s, -
+ *                          Carte_CBarbier_1.psd:427% /21.480M, 12.112k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:405% /26.502M, 13.148k/s, -
+
+2022/02/21 11:06:20 INFO  : 
+Transferred:   	    1.027G / 837.734 MBytes, 126%, 119.708 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h29m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:279% /33.877M, 13.292k/s, -
+ *                          Carte_CBarbier_1.psd:431% /21.480M, 13.519k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:409% /26.502M, 21.449k/s, -
+
+2022/02/21 11:07:20 INFO  : 
+Transferred:   	    1.031G / 837.734 MBytes, 126%, 119.347 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h30m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:284% /33.877M, 31.931k/s, -
+ *                          Carte_CBarbier_1.psd:436% /21.480M, 24.109k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:414% /26.502M, 33.451k/s, -
+
+2022/02/21 11:08:20 INFO  : 
+Transferred:   	    1.036G / 837.734 MBytes, 127%, 119.095 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h31m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:288% /33.877M, 24.247k/s, -
+ *                          Carte_CBarbier_1.psd:444% /21.480M, 31.133k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:420% /26.502M, 32.402k/s, -
+
+2022/02/21 11:09:20 INFO  : 
+Transferred:   	    1.041G / 837.734 MBytes, 127%, 118.899 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h32m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:294% /33.877M, 26.019k/s, -
+ *                          Carte_CBarbier_1.psd:450% /21.480M, 22.673k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:428% /26.502M, 33.094k/s, -
+
+2022/02/21 11:10:20 INFO  : 
+Transferred:   	    1.045G / 837.734 MBytes, 128%, 118.578 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h33m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:297% /33.877M, 13.564k/s, -
+ *                          Carte_CBarbier_1.psd:457% /21.480M, 23.159k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:433% /26.502M, 28.117k/s, -
+
+2022/02/21 11:11:20 INFO  : 
+Transferred:   	    1.049G / 837.734 MBytes, 128%, 118.326 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h34m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:302% /33.877M, 25.932k/s, -
+ *                          Carte_CBarbier_1.psd:464% /21.480M, 19.619k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:439% /26.502M, 23.800k/s, -
+
+2022/02/21 11:12:20 INFO  : 
+Transferred:   	    1.054G / 837.734 MBytes, 129%, 118.108 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h35m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:307% /33.877M, 35.360k/s, -
+ *                          Carte_CBarbier_1.psd:472% /21.480M, 33.035k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:444% /26.502M, 23.360k/s, -
+
+2022/02/21 11:13:20 INFO  : 
+Transferred:   	    1.059G / 837.734 MBytes, 129%, 117.845 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h36m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:312% /33.877M, 28.290k/s, -
+ *                          Carte_CBarbier_1.psd:478% /21.480M, 25.695k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:450% /26.502M, 20.630k/s, -
+
+2022/02/21 11:14:20 INFO  : 
+Transferred:   	    1.064G / 837.734 MBytes, 130%, 117.656 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h37m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:316% /33.877M, 26.226k/s, -
+ *                          Carte_CBarbier_1.psd:486% /21.480M, 27.864k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:458% /26.502M, 33.089k/s, -
+
+2022/02/21 11:15:20 INFO  : 
+Transferred:   	    1.067G / 837.734 MBytes, 130%, 117.315 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h38m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:320% /33.877M, 13.791k/s, -
+ *                          Carte_CBarbier_1.psd:492% /21.480M, 20.884k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:462% /26.502M, 15.822k/s, -
+
+2022/02/21 11:16:20 INFO  : 
+Transferred:   	    1.071G / 837.734 MBytes, 131%, 116.979 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h39m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:323% /33.877M, 19.690k/s, -
+ *                          Carte_CBarbier_1.psd:497% /21.480M, 17.769k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:468% /26.502M, 28.290k/s, -
+
+2022/02/21 11:17:20 INFO  : 
+Transferred:   	    1.075G / 837.734 MBytes, 131%, 116.713 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h40m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:328% /33.877M, 29.740k/s, -
+ *                          Carte_CBarbier_1.psd:503% /21.480M, 20.892k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:473% /26.502M, 28.342k/s, -
+
+2022/02/21 11:18:20 INFO  : 
+Transferred:   	    1.081G / 837.734 MBytes, 132%, 116.599 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h41m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:334% /33.877M, 28.512k/s, -
+ *                          Carte_CBarbier_1.psd:510% /21.480M, 22.207k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:482% /26.502M, 32.361k/s, -
+
+2022/02/21 11:19:20 INFO  : 
+Transferred:   	    1.087G / 837.734 MBytes, 133%, 116.593 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h42m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:340% /33.877M, 36.933k/s, -
+ *                          Carte_CBarbier_1.psd:521% /21.480M, 43.476k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:490% /26.502M, 38.945k/s, -
+
+2022/02/21 11:20:20 INFO  : 
+Transferred:   	    1.093G / 837.734 MBytes, 134%, 116.533 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h43m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:347% /33.877M, 40.652k/s, -
+ *                          Carte_CBarbier_1.psd:530% /21.480M, 34.049k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:498% /26.502M, 24.789k/s, -
+
+2022/02/21 11:21:20 INFO  : 
+Transferred:   	    1.100G / 837.734 MBytes, 134%, 116.496 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h44m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:354% /33.877M, 38.222k/s, -
+ *                          Carte_CBarbier_1.psd:538% /21.480M, 22.524k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:508% /26.502M, 52.821k/s, -
+
+2022/02/21 11:22:20 INFO  : 
+Transferred:   	    1.106G / 837.734 MBytes, 135%, 116.412 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h45m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:360% /33.877M, 37.661k/s, -
+ *                          Carte_CBarbier_1.psd:546% /21.480M, 27.157k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:516% /26.502M, 26.945k/s, -
+
+2022/02/21 11:23:20 INFO  : 
+Transferred:   	    1.113G / 837.734 MBytes, 136%, 116.453 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h46m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:367% /33.877M, 39.571k/s, -
+ *                          Carte_CBarbier_1.psd:557% /21.480M, 39.882k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:525% /26.502M, 48.873k/s, -
+
+2022/02/21 11:24:20 INFO  : 
+Transferred:   	    1.119G / 837.734 MBytes, 137%, 116.462 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h47m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:373% /33.877M, 45.395k/s, -
+ *                          Carte_CBarbier_1.psd:567% /21.480M, 32.373k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:535% /26.502M, 42.468k/s, -
+
+2022/02/21 11:25:20 INFO  : 
+Transferred:   	    1.126G / 837.734 MBytes, 138%, 116.438 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h48m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:379% /33.877M, 35.523k/s, -
+ *                          Carte_CBarbier_1.psd:580% /21.480M, 57.328k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:542% /26.502M, 20.515k/s, -
+
+2022/02/21 11:26:20 INFO  : 
+Transferred:   	    1.132G / 837.734 MBytes, 138%, 116.385 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h49m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:386% /33.877M, 41.112k/s, -
+ *                          Carte_CBarbier_1.psd:590% /21.480M, 43.983k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:548% /26.502M, 42.561k/s, -
+
+2022/02/21 11:27:20 INFO  : 
+Transferred:   	    1.138G / 837.734 MBytes, 139%, 116.331 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h50m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:392% /33.877M, 32.132k/s, -
+ *                          Carte_CBarbier_1.psd:600% /21.480M, 41.674k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:557% /26.502M, 40.627k/s, -
+
+2022/02/21 11:28:20 INFO  : 
+Transferred:   	    1.145G / 837.734 MBytes, 140%, 116.315 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h51m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:400% /33.877M, 45.162k/s, -
+ *                          Carte_CBarbier_1.psd:608% /21.480M, 29.579k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:565% /26.502M, 39.256k/s, -
+
+2022/02/21 11:29:20 INFO  : 
+Transferred:   	    1.152G / 837.734 MBytes, 141%, 116.370 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h52m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:408% /33.877M, 52.598k/s, -
+ *                          Carte_CBarbier_1.psd:618% /21.480M, 39.797k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:574% /26.502M, 42.053k/s, -
+
+2022/02/21 11:30:20 INFO  : 
+Transferred:   	    1.158G / 837.734 MBytes, 142%, 116.361 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h53m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:415% /33.877M, 44.044k/s, -
+ *                          Carte_CBarbier_1.psd:628% /21.480M, 27.810k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:583% /26.502M, 40.581k/s, -
+
+2022/02/21 11:31:20 INFO  : 
+Transferred:   	    1.165G / 837.734 MBytes, 142%, 116.370 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h54m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:423% /33.877M, 47.637k/s, -
+ *                          Carte_CBarbier_1.psd:638% /21.480M, 41.479k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:590% /26.502M, 40.560k/s, -
+
+2022/02/21 11:32:20 INFO  : 
+Transferred:   	    1.172G / 837.734 MBytes, 143%, 116.410 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h55m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:428% /33.877M, 31.018k/s, -
+ *                          Carte_CBarbier_1.psd:650% /21.480M, 43.648k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:601% /26.502M, 53.772k/s, -
+
+2022/02/21 11:33:20 INFO  : 
+Transferred:   	    1.179G / 837.734 MBytes, 144%, 116.406 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h56m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:434% /33.877M, 27.142k/s, -
+ *                          Carte_CBarbier_1.psd:663% /21.480M, 46.362k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:609% /26.502M, 41.613k/s, -
+
+2022/02/21 11:34:20 INFO  : 
+Transferred:   	    1.186G / 837.734 MBytes, 145%, 116.447 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h57m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:440% /33.877M, 32.598k/s, -
+ *                          Carte_CBarbier_1.psd:675% /21.480M, 50.672k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:619% /26.502M, 37.750k/s, -
+
+2022/02/21 11:35:20 INFO  : 
+Transferred:   	    1.193G / 837.734 MBytes, 146%, 116.491 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h58m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:447% /33.877M, 41.635k/s, -
+ *                          Carte_CBarbier_1.psd:686% /21.480M, 32.276k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:629% /26.502M, 40.583k/s, -
+
+2022/02/21 11:36:20 INFO  : 
+Transferred:   	    1.200G / 837.734 MBytes, 147%, 116.520 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  2h59m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:454% /33.877M, 41.773k/s, -
+ *                          Carte_CBarbier_1.psd:695% /21.480M, 36.070k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:639% /26.502M, 46.481k/s, -
+
+2022/02/21 11:37:20 INFO  : 
+Transferred:   	    1.207G / 837.734 MBytes, 148%, 116.533 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   3h0m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:461% /33.877M, 45.286k/s, -
+ *                          Carte_CBarbier_1.psd:706% /21.480M, 34.748k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:648% /26.502M, 33.209k/s, -
+
+2022/02/21 11:38:20 INFO  : 
+Transferred:   	    1.214G / 837.734 MBytes, 148%, 116.562 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   3h1m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:469% /33.877M, 34.654k/s, -
+ *                          Carte_CBarbier_1.psd:715% /21.480M, 45.559k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:657% /26.502M, 45.609k/s, -
+
+2022/02/21 11:39:20 INFO  : 
+Transferred:   	    1.221G / 837.734 MBytes, 149%, 116.584 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   3h2m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:476% /33.877M, 39.481k/s, -
+ *                          Carte_CBarbier_1.psd:726% /21.480M, 44.962k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:665% /26.502M, 38.427k/s, -
+
+2022/02/21 11:40:20 INFO  : 
+Transferred:   	    1.227G / 837.734 MBytes, 150%, 116.597 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   3h3m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:484% /33.877M, 47.597k/s, -
+ *                          Carte_CBarbier_1.psd:738% /21.480M, 41.441k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:672% /26.502M, 28.606k/s, -
+
+2022/02/21 11:41:20 INFO  : 
+Transferred:   	    1.235G / 837.734 MBytes, 151%, 116.647 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   3h4m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:492% /33.877M, 38.805k/s, -
+ *                          Carte_CBarbier_1.psd:750% /21.480M, 46.150k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:680% /26.502M, 42.373k/s, -
+
+2022/02/21 11:42:20 INFO  : 
+Transferred:   	    1.241G / 837.734 MBytes, 152%, 116.600 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   3h5m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:497% /33.877M, 26.718k/s, -
+ *                          Carte_CBarbier_1.psd:760% /21.480M, 38.181k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:689% /26.502M, 49.112k/s, -
+
+2022/02/21 11:43:20 INFO  : 
+Transferred:   	    1.248G / 837.734 MBytes, 153%, 116.615 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   3h6m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:504% /33.877M, 43.016k/s, -
+ *                          Carte_CBarbier_1.psd:770% /21.480M, 35.353k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:698% /26.502M, 37.436k/s, -
+
+2022/02/21 11:44:20 INFO  : 
+Transferred:   	    1.254G / 837.734 MBytes, 153%, 116.594 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   3h7m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:512% /33.877M, 36.319k/s, -
+ *                          Carte_CBarbier_1.psd:780% /21.480M, 35.594k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:706% /26.502M, 31.698k/s, -
+
+2022/02/21 11:45:20 INFO  : 
+Transferred:   	    1.260G / 837.734 MBytes, 154%, 116.527 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   3h8m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:520% /33.877M, 43.166k/s, -
+ *                          Carte_CBarbier_1.psd:788% /21.480M, 32.505k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:712% /26.502M, 31.188k/s, -
+
+2022/02/21 11:46:20 INFO  : 
+Transferred:   	    1.266G / 837.734 MBytes, 155%, 116.476 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   3h9m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:526% /33.877M, 35.038k/s, -
+ *                          Carte_CBarbier_1.psd:798% /21.480M, 36.239k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:719% /26.502M, 37.876k/s, -
+
+2022/02/21 11:47:20 INFO  : 
+Transferred:   	    1.273G / 837.734 MBytes, 156%, 116.511 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h10m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:533% /33.877M, 35.895k/s, -
+ *                          Carte_CBarbier_1.psd:809% /21.480M, 37.601k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:728% /26.502M, 42.287k/s, -
+
+2022/02/21 11:48:20 INFO  : 
+Transferred:   	    1.280G / 837.734 MBytes, 156%, 116.516 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h11m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:539% /33.877M, 43.005k/s, -
+ *                          Carte_CBarbier_1.psd:820% /21.480M, 35.207k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:738% /26.502M, 41.357k/s, -
+
+2022/02/21 11:49:20 INFO  : 
+Transferred:   	    1.287G / 837.734 MBytes, 157%, 116.512 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h12m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:546% /33.877M, 35.896k/s, -
+ *                          Carte_CBarbier_1.psd:831% /21.480M, 39.785k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:746% /26.502M, 42.330k/s, -
+
+2022/02/21 11:50:20 INFO  : 
+Transferred:   	    1.294G / 837.734 MBytes, 158%, 116.549 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h13m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:553% /33.877M, 49.194k/s, -
+ *                          Carte_CBarbier_1.psd:844% /21.480M, 42.623k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:754% /26.502M, 31.837k/s, -
+
+2022/02/21 11:51:20 INFO  : 
+Transferred:   	    1.297G / 837.734 MBytes, 159%, 116.226 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h14m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:556% /33.877M, 8.844k/s, -
+ *                          Carte_CBarbier_1.psd:848% /21.480M, 27.143k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:758% /26.502M, 9.791k/s, -
+
+2022/02/21 11:52:20 INFO  : 
+Transferred:   	    1.297G / 837.734 MBytes, 159%, 115.682 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h15m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:557% /33.877M, 590/s, -
+ *                          Carte_CBarbier_1.psd:849% /21.480M, 3.866k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:759% /26.502M, 1.541k/s, -
+
+2022/02/21 11:53:20 INFO  : 
+Transferred:   	    1.298G / 837.734 MBytes, 159%, 115.173 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h16m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:558% /33.877M, 8.428k/s, -
+ *                          Carte_CBarbier_1.psd:850% /21.480M, 1.125k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:760% /26.502M, 4.302k/s, -
+
+2022/02/21 11:54:20 INFO  : 
+Transferred:   	    1.299G / 837.734 MBytes, 159%, 114.672 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h17m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:559% /33.877M, 9.439k/s, -
+ *                          Carte_CBarbier_1.psd:852% /21.480M, 5.687k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:761% /26.502M, 765/s, -
+
+2022/02/21 11:55:20 INFO  : 
+Transferred:   	    1.300G / 837.734 MBytes, 159%, 114.177 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h18m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:560% /33.877M, 2.612k/s, -
+ *                          Carte_CBarbier_1.psd:853% /21.480M, 1.418k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:762% /26.502M, 1.190k/s, -
+
+2022/02/21 11:56:20 INFO  : 
+Transferred:   	    1.301G / 837.734 MBytes, 159%, 113.701 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h19m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:561% /33.877M, 4.917k/s, -
+ *                          Carte_CBarbier_1.psd:856% /21.480M, 24.740k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:763% /26.502M, 15.328k/s, -
+
+2022/02/21 11:57:20 INFO  : 
+Transferred:   	    1.307G / 837.734 MBytes, 160%, 113.688 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h20m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:567% /33.877M, 47.823k/s, -
+ *                          Carte_CBarbier_1.psd:866% /21.480M, 39.213k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:772% /26.502M, 31.054k/s, -
+
+2022/02/21 11:58:20 INFO  : 
+Transferred:   	    1.314G / 837.734 MBytes, 161%, 113.690 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h21m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:574% /33.877M, 40.457k/s, -
+ *                          Carte_CBarbier_1.psd:877% /21.480M, 42.728k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:779% /26.502M, 40.158k/s, -
+
+2022/02/21 11:59:20 INFO  : 
+Transferred:   	    1.321G / 837.734 MBytes, 161%, 113.727 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h22m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:582% /33.877M, 48.342k/s, -
+ *                          Carte_CBarbier_1.psd:886% /21.480M, 36.194k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:788% /26.502M, 39.511k/s, -
+
+2022/02/21 12:00:20 INFO  : 
+Transferred:   	    1.328G / 837.734 MBytes, 162%, 113.773 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h23m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:590% /33.877M, 41.242k/s, -
+ *                          Carte_CBarbier_1.psd:897% /21.480M, 50.670k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:796% /26.502M, 39.279k/s, -
+
+2022/02/21 12:01:20 INFO  : 
+Transferred:   	    1.335G / 837.734 MBytes, 163%, 113.809 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h24m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:596% /33.877M, 26.257k/s, -
+ *                          Carte_CBarbier_1.psd:909% /21.480M, 46.489k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:806% /26.502M, 53.085k/s, -
+
+2022/02/21 12:02:20 INFO  : 
+Transferred:   	    1.342G / 837.734 MBytes, 164%, 113.842 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h25m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:602% /33.877M, 29.652k/s, -
+ *                          Carte_CBarbier_1.psd:919% /21.480M, 39.107k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:816% /26.502M, 53.514k/s, -
+
+2022/02/21 12:03:20 INFO  : 
+Transferred:   	    1.349G / 837.734 MBytes, 165%, 113.887 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h26m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:609% /33.877M, 34.213k/s, -
+ *                          Carte_CBarbier_1.psd:930% /21.480M, 46.965k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:826% /26.502M, 35.968k/s, -
+
+2022/02/21 12:04:21 INFO  : 
+Transferred:   	    1.354G / 837.734 MBytes, 166%, 113.816 kBytes/s, ETA -
+Errors:                 0
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h27m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:614% /33.877M, 30.833k/s, -
+ *                          Carte_CBarbier_1.psd:940% /21.480M, 36.335k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:833% /26.502M, 37.893k/s, -
+
+2022/02/21 12:05:00 ERROR : Carte_CBarbier_1.psd: Failed to copy: "letian2105/files/rclone/o3ja8nlt62lac4skh0f1mtjhc0/659oatn7mkk0ckq2dtkvkl25duqdl62gcaiieno0fed2en26h2l0.upload.part" is locked, existing lock on file: exclusive: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 12:05:21 INFO  : 
+Transferred:   	    1.361G / 1019.561 MBytes, 137%, 113.807 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  3h28m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:621% /33.877M, 46.211k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:844% /26.502M, 61.200k/s, -
+
+2022/02/21 12:06:21 INFO  : 
+Transferred:   	    1.366G / 1019.561 MBytes, 137%, 113.722 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  3h29m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:630% /33.877M, 27.893k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:853% /26.502M, 45.029k/s, -
+
+2022/02/21 12:07:21 INFO  : 
+Transferred:   	    1.373G / 1019.561 MBytes, 138%, 113.709 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  3h30m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:641% /33.877M, 59.565k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:864% /26.502M, 57.387k/s, -
+
+2022/02/21 12:08:21 INFO  : 
+Transferred:   	    1.380G / 1019.561 MBytes, 139%, 113.741 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  3h31m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:650% /33.877M, 47.315k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:880% /26.502M, 70.477k/s, -
+
+2022/02/21 12:09:21 INFO  : 
+Transferred:   	    1.386G / 1019.561 MBytes, 139%, 113.753 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  3h32m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:660% /33.877M, 54.137k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:892% /26.502M, 53.783k/s, -
+
+2022/02/21 12:10:21 INFO  : 
+Transferred:   	    1.392G / 1019.561 MBytes, 140%, 113.681 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  3h33m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:668% /33.877M, 53.114k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:903% /26.502M, 61.123k/s, -
+
+2022/02/21 12:11:21 INFO  : 
+Transferred:   	    1.399G / 1019.561 MBytes, 140%, 113.697 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  3h34m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:677% /33.877M, 55.251k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:918% /26.502M, 67.371k/s, -
+
+2022/02/21 12:12:21 INFO  : 
+Transferred:   	    1.405G / 1019.561 MBytes, 141%, 113.660 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  3h35m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:686% /33.877M, 55.498k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:930% /26.502M, 42.380k/s, -
+
+2022/02/21 12:13:21 INFO  : 
+Transferred:   	    1.409G / 1019.561 MBytes, 141%, 113.476 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  3h36m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:693% /33.877M, 54.375k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:937% /26.502M, 45.217k/s, -
+
+2022/02/21 12:14:19 ERROR : ESPE/Mémoire Master MEEF.pptx: Failed to copy: "rclone/o3ja8nlt62lac4skh0f1mtjhc0/a2536946isg67hj9582hvc8sss/ghksippo8cmej4qjdoja6afk7p719ecp6857378qk679h6s4o1b0" is locked, existing lock on file: 4 shared locks: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 12:14:21 INFO  : 
+Transferred:   	    1.413G / 1.214 GBytes, 116%, 113.305 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h37m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:701% /33.877M, 60.514k/s, -
+
+2022/02/21 12:15:21 INFO  : 
+Transferred:   	    1.420G / 1.214 GBytes, 117%, 113.313 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h38m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:721% /33.877M, 112.011k/s, -
+
+2022/02/21 12:16:21 INFO  : 
+Transferred:   	    1.426G / 1.214 GBytes, 117%, 113.322 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h39m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:740% /33.877M, 115.456k/s, -
+
+2022/02/21 12:17:21 INFO  : 
+Transferred:   	    1.433G / 1.214 GBytes, 118%, 113.365 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h40m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:762% /33.877M, 120.184k/s, -
+
+2022/02/21 12:18:21 INFO  : 
+Transferred:   	    1.440G / 1.214 GBytes, 119%, 113.409 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h41m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:783% /33.877M, 129.660k/s, -
+
+2022/02/21 12:19:21 INFO  : 
+Transferred:   	    1.447G / 1.214 GBytes, 119%, 113.432 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h42m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:803% /33.877M, 117.483k/s, -
+
+2022/02/21 12:20:21 INFO  : 
+Transferred:   	    1.454G / 1.214 GBytes, 120%, 113.474 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h43m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:825% /33.877M, 120.802k/s, -
+
+2022/02/21 12:21:21 INFO  : 
+Transferred:   	    1.461G / 1.214 GBytes, 120%, 113.483 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h44m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:845% /33.877M, 125.446k/s, -
+
+2022/02/21 12:22:21 INFO  : 
+Transferred:   	    1.463G / 1.214 GBytes, 120%, 113.154 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h45m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:851% /33.877M, 13.089k/s, -
+
+2022/02/21 12:23:21 INFO  : 
+Transferred:   	    1.465G / 1.214 GBytes, 121%, 112.769 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h46m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:856% /33.877M, 14.624k/s, -
+
+2022/02/21 12:24:21 INFO  : 
+Transferred:   	    1.468G / 1.214 GBytes, 121%, 112.557 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h47m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:867% /33.877M, 32.828k/s, -
+
+2022/02/21 12:25:21 INFO  : 
+Transferred:   	    1.470G / 1.214 GBytes, 121%, 112.214 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h48m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:873% /33.877M, 46.547k/s, -
+
+2022/02/21 12:26:21 INFO  : 
+Transferred:   	    1.475G / 1.214 GBytes, 121%, 112.072 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h49m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:887% /33.877M, 37.038k/s, -
+
+2022/02/21 12:27:21 INFO  : 
+Transferred:   	    1.475G / 1.214 GBytes, 121%, 111.587 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h50m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:887% /33.877M, 789/s, -
+
+2022/02/21 12:28:21 INFO  : 
+Transferred:   	    1.481G / 1.214 GBytes, 122%, 111.538 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h51m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:904% /33.877M, 101.033k/s, -
+
+2022/02/21 12:29:21 INFO  : 
+Transferred:   	    1.486G / 1.214 GBytes, 122%, 111.492 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1265 / 1265, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  3h52m58.5s
+Transferring:
+ *                              CI_CBarbierl.psd:921% /33.877M, 105.878k/s, -
+
+2022/02/21 12:30:04 ERROR : CI_CBarbierl.psd: Failed to copy: "rclone/o3ja8nlt62lac4skh0f1mtjhc0/59gq1frfbkblettqbqcsca60je99ttf4hplqj7vhq6me1m5i9l70" is locked, existing lock on file: 4 shared locks: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 12:30:04 ERROR : Encrypted drive 'FarmCrypt:/Docs/': not deleting files as there were IO errors
+2022/02/21 12:30:04 ERROR : Encrypted drive 'FarmCrypt:/Docs/': not deleting directories as there were IO errors
+2022/02/21 12:30:04 ERROR : Attempt 2/3 failed with 7 errors and: "rclone/o3ja8nlt62lac4skh0f1mtjhc0/59gq1frfbkblettqbqcsca60je99ttf4hplqj7vhq6me1m5i9l70" is locked, existing lock on file: 4 shared locks: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 12:30:16 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for checks to finish
+2022/02/21 12:30:16 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for transfers to finish
+2022/02/21 12:30:21 INFO  : 
+Transferred:   	    1.492G / 1.570 GBytes, 95%, 111.448 kBytes/s, ETA 12m17s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h53m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:  1% /33.877M, 34.143k/s, 16m37s
+ *                          Carte_CBarbier_1.psd:  2% /21.480M, 27.741k/s, 12m55s
+ *                 ESPE/Mémoire Master MEEF.pptx:  1% /26.502M, 36.934k/s, 12m1s
+
+2022/02/21 12:31:21 INFO  : 
+Transferred:   	    1.499G / 1.570 GBytes, 95%, 111.508 kBytes/s, ETA 11m9s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h54m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:  7% /33.877M, 30.352k/s, 17m35s
+ *                          Carte_CBarbier_1.psd: 15% /21.480M, 38.974k/s, 7m56s
+ *                 ESPE/Mémoire Master MEEF.pptx: 11% /26.502M, 48.503k/s, 8m16s
+
+2022/02/21 12:32:21 INFO  : 
+Transferred:   	    1.506G / 1.570 GBytes, 96%, 111.519 kBytes/s, ETA 10m8s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h55m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 13% /33.877M, 31.339k/s, 15m52s
+ *                          Carte_CBarbier_1.psd: 24% /21.480M, 40.089k/s, 6m56s
+ *                 ESPE/Mémoire Master MEEF.pptx: 21% /26.502M, 45.733k/s, 7m46s
+
+2022/02/21 12:33:21 INFO  : 
+Transferred:   	    1.512G / 1.570 GBytes, 96%, 111.521 kBytes/s, ETA 9m8s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h56m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 19% /33.877M, 32.276k/s, 14m30s
+ *                          Carte_CBarbier_1.psd: 34% /21.480M, 42.267k/s, 5m43s
+ *                 ESPE/Mémoire Master MEEF.pptx: 31% /26.502M, 38.955k/s, 7m55s
+
+2022/02/21 12:34:21 INFO  : 
+Transferred:   	    1.519G / 1.570 GBytes, 97%, 111.557 kBytes/s, ETA 8m3s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h57m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 25% /33.877M, 39.090k/s, 11m1s
+ *                          Carte_CBarbier_1.psd: 46% /21.480M, 39.515k/s, 4m59s
+ *                 ESPE/Mémoire Master MEEF.pptx: 40% /26.502M, 24.775k/s, 10m54s
+
+2022/02/21 12:35:21 INFO  : 
+Transferred:   	    1.526G / 1.570 GBytes, 97%, 111.567 kBytes/s, ETA 7m1s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h58m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 33% /33.877M, 64.661k/s, 5m54s
+ *                          Carte_CBarbier_1.psd: 55% /21.480M, 28.234k/s, 5m47s
+ *                 ESPE/Mémoire Master MEEF.pptx: 47% /26.502M, 28.222k/s, 8m27s
+
+2022/02/21 12:36:21 INFO  : 
+Transferred:   	    1.532G / 1.570 GBytes, 98%, 111.562 kBytes/s, ETA 6m2s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  3h59m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 39% /33.877M, 32.044k/s, 10m50s
+ *                          Carte_CBarbier_1.psd: 68% /21.480M, 39.076k/s, 2m59s
+ *                 ESPE/Mémoire Master MEEF.pptx: 53% /26.502M, 32.351k/s, 6m29s
+
+2022/02/21 12:37:21 INFO  : 
+Transferred:   	    1.539G / 1.570 GBytes, 98%, 111.589 kBytes/s, ETA 4m59s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   4h0m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 46% /33.877M, 45.016k/s, 6m52s
+ *                          Carte_CBarbier_1.psd: 78% /21.480M, 38.479k/s, 2m1s
+ *                 ESPE/Mémoire Master MEEF.pptx: 62% /26.502M, 34.657k/s, 4m52s
+
+2022/02/21 12:38:21 INFO  : 
+Transferred:   	    1.546G / 1.570 GBytes, 98%, 111.638 kBytes/s, ETA 3m52s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   4h1m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 51% /33.877M, 38.729k/s, 7m10s
+ *                          Carte_CBarbier_1.psd: 90% /21.480M, 34.938k/s, 58s
+ *                 ESPE/Mémoire Master MEEF.pptx: 73% /26.502M, 49.829k/s, 2m25s
+
+2022/02/21 12:39:21 INFO  : 
+Transferred:   	    1.553G / 1.570 GBytes, 99%, 111.682 kBytes/s, ETA 2m46s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   4h2m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 58% /33.877M, 43.807k/s, 5m27s
+ *                          Carte_CBarbier_1.psd:100% /21.480M, 39.699k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx: 84% /26.502M, 50.175k/s, 1m25s
+
+2022/02/21 12:40:21 INFO  : 
+Transferred:   	    1.560G / 1.570 GBytes, 99%, 111.722 kBytes/s, ETA 1m41s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   4h3m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 65% /33.877M, 30.186k/s, 6m40s
+ *                          Carte_CBarbier_1.psd:111% /21.480M, 48.023k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx: 93% /26.502M, 40.043k/s, 42s
+
+2022/02/21 12:41:21 INFO  : 
+Transferred:   	    1.566G / 1.570 GBytes, 100%, 111.759 kBytes/s, ETA 36s
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   4h4m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 71% /33.877M, 44.505k/s, 3m39s
+ *                          Carte_CBarbier_1.psd:123% /21.480M, 54.923k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:101% /26.502M, 28.211k/s, -
+
+2022/02/21 12:42:21 INFO  : 
+Transferred:   	    1.574G / 1.570 GBytes, 100%, 111.810 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   4h5m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 78% /33.877M, 50.454k/s, 2m25s
+ *                          Carte_CBarbier_1.psd:134% /21.480M, 40.504k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:111% /26.502M, 40.709k/s, -
+
+2022/02/21 12:43:21 INFO  : 
+Transferred:   	    1.581G / 1.570 GBytes, 101%, 111.857 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   4h6m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 87% /33.877M, 46.421k/s, 1m37s
+ *                          Carte_CBarbier_1.psd:145% /21.480M, 42.895k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:119% /26.502M, 46.032k/s, -
+
+2022/02/21 12:44:21 INFO  : 
+Transferred:   	    1.588G / 1.570 GBytes, 101%, 111.936 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   4h7m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd: 93% /33.877M, 31.478k/s, 1m9s
+ *                          Carte_CBarbier_1.psd:159% /21.480M, 51.336k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:128% /26.502M, 49.072k/s, -
+
+2022/02/21 12:45:21 INFO  : 
+Transferred:   	    1.595G / 1.570 GBytes, 102%, 111.979 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   4h8m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:100% /33.877M, 37.006k/s, -
+ *                          Carte_CBarbier_1.psd:170% /21.480M, 43.179k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:138% /26.502M, 50.849k/s, -
+
+2022/02/21 12:46:21 INFO  : 
+Transferred:   	    1.602G / 1.570 GBytes, 102%, 112.016 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   4h9m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:107% /33.877M, 50.192k/s, -
+ *                          Carte_CBarbier_1.psd:182% /21.480M, 44.259k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:146% /26.502M, 27.233k/s, -
+
+2022/02/21 12:47:21 INFO  : 
+Transferred:   	    1.609G / 1.570 GBytes, 102%, 112.061 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h10m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:114% /33.877M, 43.625k/s, -
+ *                          Carte_CBarbier_1.psd:194% /21.480M, 30.062k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:154% /26.502M, 37.592k/s, -
+
+2022/02/21 12:48:21 INFO  : 
+Transferred:   	    1.616G / 1.570 GBytes, 103%, 112.108 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h11m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:122% /33.877M, 45.109k/s, -
+ *                          Carte_CBarbier_1.psd:203% /21.480M, 27.129k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:164% /26.502M, 52.845k/s, -
+
+2022/02/21 12:49:21 INFO  : 
+Transferred:   	    1.623G / 1.570 GBytes, 103%, 112.138 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h12m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:129% /33.877M, 38.487k/s, -
+ *                          Carte_CBarbier_1.psd:216% /21.480M, 47.679k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:172% /26.502M, 33.014k/s, -
+
+2022/02/21 12:50:21 INFO  : 
+Transferred:   	    1.630G / 1.570 GBytes, 104%, 112.188 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h13m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:135% /33.877M, 42.860k/s, -
+ *                          Carte_CBarbier_1.psd:227% /21.480M, 32.206k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:182% /26.502M, 48.830k/s, -
+
+2022/02/21 12:51:21 INFO  : 
+Transferred:   	    1.637G / 1.570 GBytes, 104%, 112.229 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h14m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:143% /33.877M, 44.276k/s, -
+ *                          Carte_CBarbier_1.psd:239% /21.480M, 37.152k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:190% /26.502M, 36.053k/s, -
+
+2022/02/21 12:52:21 INFO  : 
+Transferred:   	    1.644G / 1.570 GBytes, 105%, 112.273 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h15m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:152% /33.877M, 48.091k/s, -
+ *                          Carte_CBarbier_1.psd:249% /21.480M, 34.826k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:197% /26.502M, 38.125k/s, -
+
+2022/02/21 12:53:21 INFO  : 
+Transferred:   	    1.651G / 1.570 GBytes, 105%, 112.304 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h16m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:158% /33.877M, 32.094k/s, -
+ *                          Carte_CBarbier_1.psd:262% /21.480M, 58.101k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:205% /26.502M, 39.973k/s, -
+
+2022/02/21 12:54:21 INFO  : 
+Transferred:   	    1.658G / 1.570 GBytes, 106%, 112.335 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h17m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:165% /33.877M, 42.591k/s, -
+ *                          Carte_CBarbier_1.psd:274% /21.480M, 53.296k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:212% /26.502M, 24.089k/s, -
+
+2022/02/21 12:55:21 INFO  : 
+Transferred:   	    1.665G / 1.570 GBytes, 106%, 112.392 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h18m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:173% /33.877M, 43.839k/s, -
+ *                          Carte_CBarbier_1.psd:287% /21.480M, 34.747k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:221% /26.502M, 44.937k/s, -
+
+2022/02/21 12:56:21 INFO  : 
+Transferred:   	    1.672G / 1.570 GBytes, 106%, 112.413 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h19m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:179% /33.877M, 36.610k/s, -
+ *                          Carte_CBarbier_1.psd:299% /21.480M, 45.711k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:229% /26.502M, 37.441k/s, -
+
+2022/02/21 12:57:21 INFO  : 
+Transferred:   	    1.679G / 1.570 GBytes, 107%, 112.446 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h20m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:186% /33.877M, 33.676k/s, -
+ *                          Carte_CBarbier_1.psd:309% /21.480M, 37.011k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:239% /26.502M, 47.010k/s, -
+
+2022/02/21 12:58:21 INFO  : 
+Transferred:   	    1.686G / 1.570 GBytes, 107%, 112.481 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h21m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:194% /33.877M, 47.714k/s, -
+ *                          Carte_CBarbier_1.psd:319% /21.480M, 34.250k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:248% /26.502M, 32.147k/s, -
+
+2022/02/21 12:59:21 INFO  : 
+Transferred:   	    1.693G / 1.570 GBytes, 108%, 112.532 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h22m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:200% /33.877M, 32.798k/s, -
+ *                          Carte_CBarbier_1.psd:329% /21.480M, 39.544k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:259% /26.502M, 54.770k/s, -
+
+2022/02/21 13:00:21 INFO  : 
+Transferred:   	    1.700G / 1.570 GBytes, 108%, 112.555 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h23m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:206% /33.877M, 30.331k/s, -
+ *                          Carte_CBarbier_1.psd:341% /21.480M, 43.501k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:268% /26.502M, 45.555k/s, -
+
+2022/02/21 13:01:21 INFO  : 
+Transferred:   	    1.707G / 1.570 GBytes, 109%, 112.582 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h24m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:215% /33.877M, 51.164k/s, -
+ *                          Carte_CBarbier_1.psd:351% /21.480M, 37.822k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:276% /26.502M, 32.788k/s, -
+
+2022/02/21 13:02:21 INFO  : 
+Transferred:   	    1.714G / 1.570 GBytes, 109%, 112.630 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h25m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:221% /33.877M, 32.716k/s, -
+ *                          Carte_CBarbier_1.psd:364% /21.480M, 49.568k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:284% /26.502M, 37.944k/s, -
+
+2022/02/21 13:03:21 INFO  : 
+Transferred:   	    1.721G / 1.570 GBytes, 110%, 112.655 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h26m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:228% /33.877M, 42.525k/s, -
+ *                          Carte_CBarbier_1.psd:375% /21.480M, 37.498k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:293% /26.502M, 44.113k/s, -
+
+2022/02/21 13:04:21 INFO  : 
+Transferred:   	    1.728G / 1.570 GBytes, 110%, 112.675 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h27m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:236% /33.877M, 40.808k/s, -
+ *                          Carte_CBarbier_1.psd:387% /21.480M, 41.486k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:300% /26.502M, 25.245k/s, -
+
+2022/02/21 13:05:21 INFO  : 
+Transferred:   	    1.735G / 1.570 GBytes, 110%, 112.732 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h28m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:244% /33.877M, 47.992k/s, -
+ *                          Carte_CBarbier_1.psd:396% /21.480M, 34.062k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:309% /26.502M, 45.960k/s, -
+
+2022/02/21 13:06:21 INFO  : 
+Transferred:   	    1.742G / 1.570 GBytes, 111%, 112.766 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h29m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:252% /33.877M, 43.682k/s, -
+ *                          Carte_CBarbier_1.psd:408% /21.480M, 46.307k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:317% /26.502M, 35.249k/s, -
+
+2022/02/21 13:07:21 INFO  : 
+Transferred:   	    1.749G / 1.570 GBytes, 111%, 112.812 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h30m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:260% /33.877M, 56.323k/s, -
+ *                          Carte_CBarbier_1.psd:418% /21.480M, 35.692k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:326% /26.502M, 42.439k/s, -
+
+2022/02/21 13:08:21 INFO  : 
+Transferred:   	    1.756G / 1.570 GBytes, 112%, 112.838 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h31m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:269% /33.877M, 49.677k/s, -
+ *                          Carte_CBarbier_1.psd:426% /21.480M, 20.229k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:336% /26.502M, 44.933k/s, -
+
+2022/02/21 13:09:21 INFO  : 
+Transferred:   	    1.763G / 1.570 GBytes, 112%, 112.880 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h32m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:277% /33.877M, 35.746k/s, -
+ *                          Carte_CBarbier_1.psd:436% /21.480M, 43.555k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:344% /26.502M, 40.961k/s, -
+
+2022/02/21 13:10:21 INFO  : 
+Transferred:   	    1.770G / 1.570 GBytes, 113%, 112.911 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h33m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:284% /33.877M, 35.181k/s, -
+ *                          Carte_CBarbier_1.psd:444% /21.480M, 21.894k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:355% /26.502M, 47.952k/s, -
+
+2022/02/21 13:11:21 INFO  : 
+Transferred:   	    1.777G / 1.570 GBytes, 113%, 112.960 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h34m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:290% /33.877M, 35.583k/s, -
+ *                          Carte_CBarbier_1.psd:455% /21.480M, 38.416k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:367% /26.502M, 55.570k/s, -
+
+2022/02/21 13:12:21 INFO  : 
+Transferred:   	    1.784G / 1.570 GBytes, 114%, 112.991 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h35m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:297% /33.877M, 38.848k/s, -
+ *                          Carte_CBarbier_1.psd:465% /21.480M, 43.924k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:376% /26.502M, 41.127k/s, -
+
+2022/02/21 13:13:21 INFO  : 
+Transferred:   	    1.791G / 1.570 GBytes, 114%, 113.032 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h36m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:305% /33.877M, 41.631k/s, -
+ *                          Carte_CBarbier_1.psd:472% /21.480M, 24.316k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:389% /26.502M, 54.932k/s, -
+
+2022/02/21 13:14:21 INFO  : 
+Transferred:   	    1.798G / 1.570 GBytes, 115%, 113.075 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h37m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:311% /33.877M, 36.746k/s, -
+ *                          Carte_CBarbier_1.psd:481% /21.480M, 32.142k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:401% /26.502M, 49.238k/s, -
+
+2022/02/21 13:15:21 INFO  : 
+Transferred:   	    1.805G / 1.570 GBytes, 115%, 113.111 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h38m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:318% /33.877M, 47.792k/s, -
+ *                          Carte_CBarbier_1.psd:489% /21.480M, 33.259k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:412% /26.502M, 54.701k/s, -
+
+2022/02/21 13:16:21 INFO  : 
+Transferred:   	    1.812G / 1.570 GBytes, 115%, 113.140 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h39m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:324% /33.877M, 39.815k/s, -
+ *                          Carte_CBarbier_1.psd:501% /21.480M, 42.182k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:421% /26.502M, 44.803k/s, -
+
+2022/02/21 13:17:21 INFO  : 
+Transferred:   	    1.820G / 1.570 GBytes, 116%, 113.178 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h40m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:333% /33.877M, 55.642k/s, -
+ *                          Carte_CBarbier_1.psd:512% /21.480M, 30.698k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:430% /26.502M, 33.893k/s, -
+
+2022/02/21 13:18:21 INFO  : 
+Transferred:   	    1.826G / 1.570 GBytes, 116%, 113.202 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h41m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:340% /33.877M, 44.283k/s, -
+ *                          Carte_CBarbier_1.psd:521% /21.480M, 34.414k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:440% /26.502M, 44.250k/s, -
+
+2022/02/21 13:19:21 INFO  : 
+Transferred:   	    1.833G / 1.570 GBytes, 117%, 113.239 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h42m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:347% /33.877M, 38.556k/s, -
+ *                          Carte_CBarbier_1.psd:532% /21.480M, 38.879k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:449% /26.502M, 36.972k/s, -
+
+2022/02/21 13:20:21 INFO  : 
+Transferred:   	    1.841G / 1.570 GBytes, 117%, 113.280 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h43m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:354% /33.877M, 31.387k/s, -
+ *                          Carte_CBarbier_1.psd:542% /21.480M, 33.426k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:459% /26.502M, 47.723k/s, -
+
+2022/02/21 13:21:21 INFO  : 
+Transferred:   	    1.847G / 1.570 GBytes, 118%, 113.299 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h44m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:362% /33.877M, 47.095k/s, -
+ *                          Carte_CBarbier_1.psd:550% /21.480M, 31.688k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:470% /26.502M, 45.459k/s, -
+
+2022/02/21 13:22:21 INFO  : 
+Transferred:   	    1.854G / 1.570 GBytes, 118%, 113.334 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h45m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:369% /33.877M, 51.364k/s, -
+ *                          Carte_CBarbier_1.psd:562% /21.480M, 43.136k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:477% /26.502M, 30.823k/s, -
+
+2022/02/21 13:23:21 INFO  : 
+Transferred:   	    1.862G / 1.570 GBytes, 119%, 113.370 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h46m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:378% /33.877M, 44.058k/s, -
+ *                          Carte_CBarbier_1.psd:571% /21.480M, 33.689k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:486% /26.502M, 39.025k/s, -
+
+2022/02/21 13:24:21 INFO  : 
+Transferred:   	    1.869G / 1.570 GBytes, 119%, 113.408 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h47m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:386% /33.877M, 44.402k/s, -
+ *                          Carte_CBarbier_1.psd:579% /21.480M, 35.997k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:497% /26.502M, 54.727k/s, -
+
+2022/02/21 13:25:21 INFO  : 
+Transferred:   	    1.875G / 1.570 GBytes, 119%, 113.420 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h48m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:392% /33.877M, 43.378k/s, -
+ *                          Carte_CBarbier_1.psd:590% /21.480M, 37.099k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:506% /26.502M, 35.273k/s, -
+
+2022/02/21 13:26:21 INFO  : 
+Transferred:   	    1.883G / 1.570 GBytes, 120%, 113.474 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h49m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:401% /33.877M, 55.061k/s, -
+ *                          Carte_CBarbier_1.psd:602% /21.480M, 30.171k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:514% /26.502M, 36.825k/s, -
+
+2022/02/21 13:27:21 INFO  : 
+Transferred:   	    1.890G / 1.570 GBytes, 120%, 113.493 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h50m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:408% /33.877M, 39.965k/s, -
+ *                          Carte_CBarbier_1.psd:612% /21.480M, 44.643k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:523% /26.502M, 40.894k/s, -
+
+2022/02/21 13:28:21 INFO  : 
+Transferred:   	    1.897G / 1.570 GBytes, 121%, 113.529 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h51m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:415% /33.877M, 43.698k/s, -
+ *                          Carte_CBarbier_1.psd:624% /21.480M, 42.207k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:532% /26.502M, 43.981k/s, -
+
+2022/02/21 13:29:21 INFO  : 
+Transferred:   	    1.904G / 1.570 GBytes, 121%, 113.566 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h52m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:424% /33.877M, 48.409k/s, -
+ *                          Carte_CBarbier_1.psd:634% /21.480M, 29.961k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:540% /26.502M, 38.855k/s, -
+
+2022/02/21 13:30:21 INFO  : 
+Transferred:   	    1.911G / 1.570 GBytes, 122%, 113.589 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h53m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:430% /33.877M, 37.777k/s, -
+ *                          Carte_CBarbier_1.psd:644% /21.480M, 42.804k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:550% /26.502M, 49.278k/s, -
+
+2022/02/21 13:31:21 INFO  : 
+Transferred:   	    1.918G / 1.570 GBytes, 122%, 113.622 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h54m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:437% /33.877M, 44.632k/s, -
+ *                          Carte_CBarbier_1.psd:653% /21.480M, 26.388k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:561% /26.502M, 48.668k/s, -
+
+2022/02/21 13:32:21 INFO  : 
+Transferred:   	    1.925G / 1.570 GBytes, 123%, 113.647 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h55m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:444% /33.877M, 43.522k/s, -
+ *                          Carte_CBarbier_1.psd:663% /21.480M, 45.229k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:571% /26.502M, 37.385k/s, -
+
+2022/02/21 13:33:21 INFO  : 
+Transferred:   	    1.931G / 1.570 GBytes, 123%, 113.669 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h56m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:451% /33.877M, 32.205k/s, -
+ *                          Carte_CBarbier_1.psd:674% /21.480M, 44.991k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:580% /26.502M, 42.140k/s, -
+
+2022/02/21 13:34:21 INFO  : 
+Transferred:   	    1.939G / 1.570 GBytes, 123%, 113.704 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h57m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:458% /33.877M, 42.220k/s, -
+ *                          Carte_CBarbier_1.psd:684% /21.480M, 31.546k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:589% /26.502M, 39.559k/s, -
+
+2022/02/21 13:35:21 INFO  : 
+Transferred:   	    1.946G / 1.570 GBytes, 124%, 113.738 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h58m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:466% /33.877M, 43.422k/s, -
+ *                          Carte_CBarbier_1.psd:693% /21.480M, 23.604k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:600% /26.502M, 53.576k/s, -
+
+2022/02/21 13:36:21 INFO  : 
+Transferred:   	    1.953G / 1.570 GBytes, 124%, 113.763 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  4h59m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:473% /33.877M, 37.015k/s, -
+ *                          Carte_CBarbier_1.psd:704% /21.480M, 46.670k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:609% /26.502M, 42.189k/s, -
+
+2022/02/21 13:37:21 INFO  : 
+Transferred:   	    1.960G / 1.570 GBytes, 125%, 113.796 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   5h0m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:479% /33.877M, 40.960k/s, -
+ *                          Carte_CBarbier_1.psd:715% /21.480M, 46.356k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:619% /26.502M, 42.016k/s, -
+
+2022/02/21 13:38:21 INFO  : 
+Transferred:   	    1.967G / 1.570 GBytes, 125%, 113.825 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   5h1m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:486% /33.877M, 35.764k/s, -
+ *                          Carte_CBarbier_1.psd:723% /21.480M, 28.698k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:631% /26.502M, 55.831k/s, -
+
+2022/02/21 13:39:21 INFO  : 
+Transferred:   	    1.974G / 1.570 GBytes, 126%, 113.846 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   5h2m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:494% /33.877M, 51.898k/s, -
+ *                          Carte_CBarbier_1.psd:734% /21.480M, 33.139k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:640% /26.502M, 39.110k/s, -
+
+2022/02/21 13:40:21 INFO  : 
+Transferred:   	    1.980G / 1.570 GBytes, 126%, 113.865 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   5h3m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:500% /33.877M, 26.471k/s, -
+ *                          Carte_CBarbier_1.psd:744% /21.480M, 37.430k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:649% /26.502M, 45.365k/s, -
+
+2022/02/21 13:41:21 INFO  : 
+Transferred:   	    1.988G / 1.570 GBytes, 127%, 113.908 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   5h4m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:507% /33.877M, 42.884k/s, -
+ *                          Carte_CBarbier_1.psd:754% /21.480M, 34.298k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:661% /26.502M, 57.052k/s, -
+
+2022/02/21 13:42:21 INFO  : 
+Transferred:   	    1.994G / 1.570 GBytes, 127%, 113.923 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   5h5m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:513% /33.877M, 43.046k/s, -
+ *                          Carte_CBarbier_1.psd:763% /21.480M, 33.583k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:671% /26.502M, 38.194k/s, -
+
+2022/02/21 13:43:21 INFO  : 
+Transferred:   	    2.002G / 1.570 GBytes, 127%, 113.967 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   5h6m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:521% /33.877M, 39.824k/s, -
+ *                          Carte_CBarbier_1.psd:775% /21.480M, 41.512k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:680% /26.502M, 50.942k/s, -
+
+2022/02/21 13:44:21 INFO  : 
+Transferred:   	    2.009G / 1.570 GBytes, 128%, 114.001 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   5h7m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:529% /33.877M, 52.525k/s, -
+ *                          Carte_CBarbier_1.psd:785% /21.480M, 32.164k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:689% /26.502M, 36.856k/s, -
+
+2022/02/21 13:45:21 INFO  : 
+Transferred:   	    2.016G / 1.570 GBytes, 128%, 114.037 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   5h8m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:538% /33.877M, 43.106k/s, -
+ *                          Carte_CBarbier_1.psd:795% /21.480M, 39.134k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:698% /26.502M, 47.828k/s, -
+
+2022/02/21 13:46:21 INFO  : 
+Transferred:   	    2.023G / 1.570 GBytes, 129%, 114.065 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:   5h9m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:546% /33.877M, 52.306k/s, -
+ *                          Carte_CBarbier_1.psd:805% /21.480M, 32.131k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:707% /26.502M, 44.827k/s, -
+
+2022/02/21 13:47:21 INFO  : 
+Transferred:   	    2.030G / 1.570 GBytes, 129%, 114.102 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h10m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:552% /33.877M, 33.120k/s, -
+ *                          Carte_CBarbier_1.psd:815% /21.480M, 35.729k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:718% /26.502M, 49.164k/s, -
+
+2022/02/21 13:48:21 INFO  : 
+Transferred:   	    2.037G / 1.570 GBytes, 130%, 114.115 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h11m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:559% /33.877M, 38.137k/s, -
+ *                          Carte_CBarbier_1.psd:825% /21.480M, 39.625k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:727% /26.502M, 44.095k/s, -
+
+2022/02/21 13:49:21 INFO  : 
+Transferred:   	    2.044G / 1.570 GBytes, 130%, 114.148 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h12m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:568% /33.877M, 44.433k/s, -
+ *                          Carte_CBarbier_1.psd:837% /21.480M, 46.975k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:734% /26.502M, 38.433k/s, -
+
+2022/02/21 13:50:21 INFO  : 
+Transferred:   	    2.051G / 1.570 GBytes, 131%, 114.173 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h13m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:577% /33.877M, 62.470k/s, -
+ *                          Carte_CBarbier_1.psd:847% /21.480M, 41.750k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:741% /26.502M, 23.851k/s, -
+
+2022/02/21 13:51:21 INFO  : 
+Transferred:   	    2.058G / 1.570 GBytes, 131%, 114.196 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h14m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:583% /33.877M, 45.698k/s, -
+ *                          Carte_CBarbier_1.psd:856% /21.480M, 37.082k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:752% /26.502M, 41.489k/s, -
+
+2022/02/21 13:52:21 INFO  : 
+Transferred:   	    2.065G / 1.570 GBytes, 132%, 114.229 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h15m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:591% /33.877M, 39.782k/s, -
+ *                          Carte_CBarbier_1.psd:865% /21.480M, 29.193k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:763% /26.502M, 55.084k/s, -
+
+2022/02/21 13:53:21 INFO  : 
+Transferred:   	    2.072G / 1.570 GBytes, 132%, 114.253 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h16m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:596% /33.877M, 35.635k/s, -
+ *                          Carte_CBarbier_1.psd:877% /21.480M, 38.656k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:773% /26.502M, 53.253k/s, -
+
+2022/02/21 13:54:21 INFO  : 
+Transferred:   	    2.079G / 1.570 GBytes, 132%, 114.281 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h17m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:604% /33.877M, 52.062k/s, -
+ *                          Carte_CBarbier_1.psd:886% /21.480M, 34.394k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:783% /26.502M, 44.013k/s, -
+
+2022/02/21 13:55:21 INFO  : 
+Transferred:   	    2.086G / 1.570 GBytes, 133%, 114.307 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h18m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:613% /33.877M, 64.930k/s, -
+ *                          Carte_CBarbier_1.psd:896% /21.480M, 36.976k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:791% /26.502M, 30.126k/s, -
+
+2022/02/21 13:56:21 INFO  : 
+Transferred:   	    2.093G / 1.570 GBytes, 133%, 114.327 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h19m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:621% /33.877M, 39.603k/s, -
+ *                          Carte_CBarbier_1.psd:906% /21.480M, 44.397k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:799% /26.502M, 39.703k/s, -
+
+2022/02/21 13:57:21 INFO  : 
+Transferred:   	    2.100G / 1.570 GBytes, 134%, 114.356 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h20m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:628% /33.877M, 41.749k/s, -
+ *                          Carte_CBarbier_1.psd:914% /21.480M, 26.999k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:811% /26.502M, 52.911k/s, -
+
+2022/02/21 13:58:21 INFO  : 
+Transferred:   	    2.107G / 1.570 GBytes, 134%, 114.386 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h21m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:634% /33.877M, 41.257k/s, -
+ *                          Carte_CBarbier_1.psd:926% /21.480M, 44.632k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:820% /26.502M, 36.693k/s, -
+
+2022/02/21 13:59:21 INFO  : 
+Transferred:   	    2.114G / 1.570 GBytes, 135%, 114.407 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h22m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:643% /33.877M, 49.639k/s, -
+ *                          Carte_CBarbier_1.psd:936% /21.480M, 31.087k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:829% /26.502M, 48.179k/s, -
+
+2022/02/21 14:00:21 INFO  : 
+Transferred:   	    2.120G / 1.570 GBytes, 135%, 114.389 kBytes/s, ETA -
+Errors:                 0
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 9, 67%
+Elapsed time:  5h23m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:650% /33.877M, 47.023k/s, -
+ *                          Carte_CBarbier_1.psd:945% /21.480M, 20.978k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:836% /26.502M, 19.412k/s, -
+
+2022/02/21 14:00:23 ERROR : Carte_CBarbier_1.psd: Failed to copy: "rclone/o3ja8nlt62lac4skh0f1mtjhc0/659oatn7mkk0ckq2dtkvkl25duqdl62gcaiieno0fed2en26h2l0" is locked, existing lock on file: 5 shared locks: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 14:01:21 INFO  : 
+Transferred:   	    2.128G / 1.748 GBytes, 122%, 114.449 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  5h24m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:663% /33.877M, 64.900k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:849% /26.502M, 66.196k/s, -
+
+2022/02/21 14:02:21 INFO  : 
+Transferred:   	    2.135G / 1.748 GBytes, 122%, 114.466 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  5h25m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:673% /33.877M, 60.153k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:863% /26.502M, 61.792k/s, -
+
+2022/02/21 14:03:21 INFO  : 
+Transferred:   	    2.142G / 1.748 GBytes, 123%, 114.498 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  5h26m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:683% /33.877M, 53.874k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:878% /26.502M, 74.966k/s, -
+
+2022/02/21 14:04:21 INFO  : 
+Transferred:   	    2.149G / 1.748 GBytes, 123%, 114.520 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  5h27m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:692% /33.877M, 57.840k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:893% /26.502M, 68.363k/s, -
+
+2022/02/21 14:05:21 INFO  : 
+Transferred:   	    2.156G / 1.748 GBytes, 123%, 114.544 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  5h28m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:705% /33.877M, 70.285k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:904% /26.502M, 40.687k/s, -
+
+2022/02/21 14:06:21 INFO  : 
+Transferred:   	    2.163G / 1.748 GBytes, 124%, 114.561 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  5h29m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:714% /33.877M, 51.777k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:919% /26.502M, 65.831k/s, -
+
+2022/02/21 14:07:21 INFO  : 
+Transferred:   	    2.170G / 1.748 GBytes, 124%, 114.589 kBytes/s, ETA -
+Errors:                 2 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:  5h30m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:724% /33.877M, 51.994k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx:933% /26.502M, 73.733k/s, -
+
+2022/02/21 14:07:53 ERROR : ESPE/Mémoire Master MEEF.pptx: Failed to copy: "letian2105/files/rclone/o3ja8nlt62lac4skh0f1mtjhc0/a2536946isg67hj9582hvc8sss/ghksippo8cmej4qjdoja6afk7p719ecp6857378qk679h6s4o1b0.upload.part" is locked, existing lock on file: exclusive: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 14:08:21 INFO  : 
+Transferred:   	    2.177G / 1.964 GBytes, 111%, 114.594 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  5h31m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:742% /33.877M, 117.666k/s, -
+
+2022/02/21 14:09:21 INFO  : 
+Transferred:   	    2.184G / 1.964 GBytes, 111%, 114.612 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  5h32m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:762% /33.877M, 120.758k/s, -
+
+2022/02/21 14:10:21 INFO  : 
+Transferred:   	    2.191G / 1.964 GBytes, 112%, 114.643 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  5h33m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:784% /33.877M, 115.166k/s, -
+
+2022/02/21 14:11:21 INFO  : 
+Transferred:   	    2.198G / 1.964 GBytes, 112%, 114.671 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  5h34m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:805% /33.877M, 120.939k/s, -
+
+2022/02/21 14:12:21 INFO  : 
+Transferred:   	    2.204G / 1.964 GBytes, 112%, 114.667 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  5h35m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:825% /33.877M, 115.334k/s, -
+
+2022/02/21 14:13:21 INFO  : 
+Transferred:   	    2.211G / 1.964 GBytes, 113%, 114.695 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  5h36m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:847% /33.877M, 129.750k/s, -
+
+2022/02/21 14:14:21 INFO  : 
+Transferred:   	    2.218G / 1.964 GBytes, 113%, 114.719 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  5h37m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:868% /33.877M, 112.915k/s, -
+
+2022/02/21 14:15:21 INFO  : 
+Transferred:   	    2.225G / 1.964 GBytes, 113%, 114.736 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  5h38m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:889% /33.877M, 121.486k/s, -
+
+2022/02/21 14:16:21 INFO  : 
+Transferred:   	    2.232G / 1.964 GBytes, 114%, 114.760 kBytes/s, ETA -
+Errors:                 4 (retrying may help)
+Checks:              1899 / 1899, 100%
+Transferred:            6 / 7, 86%
+Elapsed time:  5h39m57.4s
+Transferring:
+ *                              CI_CBarbierl.psd:910% /33.877M, 120.699k/s, -
+
+2022/02/21 14:16:57 ERROR : CI_CBarbierl.psd: Failed to copy: "letian2105/files/rclone/o3ja8nlt62lac4skh0f1mtjhc0/59gq1frfbkblettqbqcsca60je99ttf4hplqj7vhq6me1m5i9l70.upload.part" is locked, existing lock on file: exclusive: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 14:16:57 ERROR : Encrypted drive 'FarmCrypt:/Docs/': not deleting files as there were IO errors
+2022/02/21 14:16:57 ERROR : Encrypted drive 'FarmCrypt:/Docs/': not deleting directories as there were IO errors
+2022/02/21 14:16:57 ERROR : Attempt 3/3 failed with 7 errors and: "letian2105/files/rclone/o3ja8nlt62lac4skh0f1mtjhc0/59gq1frfbkblettqbqcsca60je99ttf4hplqj7vhq6me1m5i9l70.upload.part" is locked, existing lock on file: exclusive: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/21 14:16:57 Failed to sync with 7 errors: last error was: "letian2105/files/rclone/o3ja8nlt62lac4skh0f1mtjhc0/59gq1frfbkblettqbqcsca60je99ttf4hplqj7vhq6me1m5i9l70.upload.part" is locked, existing lock on file: exclusive: OCA\DAV\Connector\Sabre\Exception\FileLocked: 423 Locked
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/splash/xiaomi-beryllium-ebbg-error.ppm: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/splash/xiaomi-beryllium-ebbg.ppm: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/splash/xiaomi-beryllium-tianma-error.ppm: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/splash/xiaomi-beryllium-tianma.ppm: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/deviceinfo_oneplus-enchilada: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/deviceinfo_oneplus-fajita: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/deviceinfo_xiaomi-beryllium-ebbg: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/deviceinfo_xiaomi-beryllium-tianma: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/info-xiaomi-beryllium-ebbg.sh: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/info-xiaomi-beryllium-tianma.sh: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/build/linux-sunxi/source: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/initramfs/bin/clear: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/initramfs/bin/mkdir: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/initramfs/bin/mount: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/initramfs/bin/sh: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/linux-sunxi/Documentation/Changes: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:55 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/build/busybox/include2/asm: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:56 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/u-boot/arch/microblaze/dts/include/dt-bindings: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:56 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/u-boot/arch/arm/dts/zynq-zc770-xm011-x16.dts: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:56 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/u-boot/arch/mips/dts/include/dt-bindings: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:57 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/u-boot/arch/arm/dts/include/dt-bindings: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:57 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/linux-sunxi/arch/arm/boot/dts/sun8i-a23-ippo-q8h-v1.2.dts: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:57 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/linux-sunxi/arch/arm/boot/dts/sun8i-a23-ippo-q8h-v5.dts: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:57 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/linux-sunxi/arch/arm/boot/dts/sun8i-a33-et-q8-v1.6.dts: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:57 NOTICE: Pinephone/Jumpdrive/Jumpdrive-0.8/src/linux-sunxi/arch/arm/boot/dts/sun8i-a33-ippo-q8h-v1.2.dts: Can't follow symlink without -L/--copy-links
+2022/02/26 12:33:58 INFO  : clé_FF.txt: Copied (new)
+2022/02/26 12:34:06 INFO  : Pinephone/Pinephone LoRa Back Cover Panel Schematic-v1.0-20210425.pdf: Copied (new)
+2022/02/26 12:34:10 INFO  : Pinephone/QZ01-rear-2019-0717(HW) Model.pdf: Copied (new)
+2022/02/26 12:34:31 INFO  : Pinephone/PinePhone v1.2b Released Schematic.pdf: Copied (new)
+2022/02/26 12:34:54 INFO  : 
+Transferred:   	    7.459M / 8.982 GBytes, 0%, 128.132 kBytes/s, ETA 20h24m7s
+Errors:                 0
+Checks:               124 / 124, 100%
+Transferred:            4 / 10016, 0%
+Elapsed time:       59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:  6% /33.877M, 31.167k/s, 17m22s
+ *                          Carte_CBarbier_1.psd: 11% /21.480M, 39.924k/s, 8m9s
+ * Pinephone/mobian-pinephone-phosh-20220116.img:  0% /5.588G, 28.736k/s, 56h37m32s
+ * Pinephone/mobian-pinep…-phosh-20220116.img.gz:  0% /1.069G, 25.941k/s, 11h59m25s
+
+2022/02/26 12:35:54 INFO  : 
+Transferred:   	   14.774M / 8.982 GBytes, 0%, 126.476 kBytes/s, ETA 20h39m10s
+Errors:                 0
+Checks:               124 / 124, 100%
+Transferred:            4 / 10016, 0%
+Elapsed time:     1m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 11% /33.877M, 26.347k/s, 19m24s
+ *                          Carte_CBarbier_1.psd: 21% /21.480M, 39.413k/s, 7m20s
+ * Pinephone/mobian-pinephone-phosh-20220116.img:  0% /5.588G, 28.070k/s, 57h57m10s
+ * Pinephone/mobian-pinep…-phosh-20220116.img.gz:  0% /1.069G, 36.776k/s, 8h26m35s
+
+2022/02/26 12:36:54 INFO  : 
+Transferred:   	   21.931M / 8.982 GBytes, 0%, 125.035 kBytes/s, ETA 20h52m28s
+Errors:                 0
+Checks:               124 / 124, 100%
+Transferred:            4 / 10016, 0%
+Elapsed time:     2m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 16% /33.877M, 27.902k/s, 17m14s
+ *                          Carte_CBarbier_1.psd: 29% /21.480M, 32.939k/s, 7m48s
+ * Pinephone/mobian-pinephone-phosh-20220116.img:  0% /5.588G, 35.640k/s, 45h37m50s
+ * Pinephone/mobian-pinep…-phosh-20220116.img.gz:  0% /1.069G, 31.504k/s, 9h50m25s
+
+2022/02/26 12:37:54 INFO  : 
+Transferred:   	   28.808M / 8.982 GBytes, 0%, 123.113 kBytes/s, ETA 21h11m3s
+Errors:                 0
+Checks:               124 / 124, 100%
+Transferred:            4 / 10016, 0%
+Elapsed time:     3m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 21% /33.877M, 31.082k/s, 14m33s
+ *                          Carte_CBarbier_1.psd: 37% /21.480M, 30.114k/s, 7m37s
+ * Pinephone/mobian-pinephone-phosh-20220116.img:  0% /5.588G, 30.570k/s, 53h10m39s
+ * Pinephone/mobian-pinep…-phosh-20220116.img.gz:  0% /1.069G, 15.268k/s, 20h16m39s
+
+2022/02/26 12:58:07 INFO  : Linux/GLOSSAIRE+DES+COMMANDES+TERMINAL+(partie+3+du+cours).pdf: Copied (new)
+2022/02/26 12:58:09 INFO  : Linux/Projets dev.odt: Copied (new)
+2022/02/26 12:58:10 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for checks to finish
+2022/02/26 12:58:10 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for transfers to finish
+2022/02/26 12:58:16 INFO  : Linux/Résumé2.odt: Copied (replaced existing)
+2022/02/26 12:58:19 INFO  : Linux/.~lock.Résumé2.odt#: Copied (replaced existing)
+2022/02/26 12:58:24 INFO  : Linux/Suivi.odt: Copied (replaced existing)
+2022/02/26 12:58:40 INFO  : Paperasses/Formations/CBarbier_Linux_certificate.pdf: Copied (new)
+2022/02/26 12:58:50 INFO  : Paperasses/Formations/Fiche_Initiez-vous-a-linux.pdf: Copied (new)
+2022/02/26 12:58:59 INFO  : 
+Transferred:   	    7.232M / 82.496 MBytes, 9%, 124.107 kBytes/s, ETA 10m20s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            7 / 10, 70%
+Elapsed time:       59.6s
+Transferring:
+ *                              CI_CBarbierl.psd:  5% /33.877M, 33.073k/s, 16m28s
+ *                          Carte_CBarbier_1.psd:  8% /21.480M, 32.886k/s, 10m11s
+ *                 ESPE/Mémoire Master MEEF.pptx: 10% /26.502M, 48.173k/s, 8m23s
+
+2022/02/26 12:59:59 INFO  : 
+Transferred:   	   14.265M / 82.496 MBytes, 17%, 122.062 kBytes/s, ETA 9m32s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            7 / 10, 70%
+Elapsed time:     1m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 11% /33.877M, 35.893k/s, 14m11s
+ *                          Carte_CBarbier_1.psd: 21% /21.480M, 44.499k/s, 6m29s
+ *                 ESPE/Mémoire Master MEEF.pptx: 18% /26.502M, 37.199k/s, 9m50s
+
+2022/02/26 13:00:59 INFO  : 
+Transferred:   	   21.361M / 82.496 MBytes, 26%, 121.740 kBytes/s, ETA 8m34s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            7 / 10, 70%
+Elapsed time:     2m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 18% /33.877M, 48.121k/s, 9m49s
+ *                          Carte_CBarbier_1.psd: 34% /21.480M, 38.694k/s, 6m12s
+ *                 ESPE/Mémoire Master MEEF.pptx: 27% /26.502M, 31.426k/s, 10m30s
+
+2022/02/26 13:01:59 INFO  : 
+Transferred:   	   27.675M / 82.496 MBytes, 34%, 118.240 kBytes/s, ETA 7m54s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            7 / 10, 70%
+Elapsed time:     3m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 24% /33.877M, 36.748k/s, 11m54s
+ *                          Carte_CBarbier_1.psd: 44% /21.480M, 36.573k/s, 5m30s
+ *                 ESPE/Mémoire Master MEEF.pptx: 34% /26.502M, 27.354k/s, 10m50s
+
+2022/02/26 13:02:59 INFO  : 
+Transferred:   	   34.864M / 82.496 MBytes, 42%, 119.132 kBytes/s, ETA 6m49s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            7 / 10, 70%
+Elapsed time:     4m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 31% /33.877M, 49.316k/s, 8m0s
+ *                          Carte_CBarbier_1.psd: 57% /21.480M, 40.318k/s, 3m51s
+ *                 ESPE/Mémoire Master MEEF.pptx: 41% /26.502M, 24.549k/s, 10m41s
+
+2022/02/26 13:03:59 INFO  : 
+Transferred:   	   41.960M / 82.496 MBytes, 51%, 119.460 kBytes/s, ETA 5m47s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            7 / 10, 70%
+Elapsed time:     5m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 37% /33.877M, 34.051k/s, 10m36s
+ *                          Carte_CBarbier_1.psd: 69% /21.480M, 47.861k/s, 2m21s
+ *                 ESPE/Mémoire Master MEEF.pptx: 51% /26.502M, 46.338k/s, 4m42s
+
+2022/02/26 13:04:59 INFO  : 
+Transferred:   	   49.024M / 82.496 MBytes, 59%, 119.617 kBytes/s, ETA 4m46s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            7 / 10, 70%
+Elapsed time:     6m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 44% /33.877M, 45.574k/s, 7m2s
+ *                          Carte_CBarbier_1.psd: 80% /21.480M, 39.922k/s, 1m49s
+ *                 ESPE/Mémoire Master MEEF.pptx: 60% /26.502M, 40.057k/s, 4m25s
+
+2022/02/26 13:05:59 INFO  : 
+Transferred:   	   56.182M / 82.496 MBytes, 68%, 119.936 kBytes/s, ETA 3m44s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            7 / 10, 70%
+Elapsed time:     7m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 52% /33.877M, 44.778k/s, 6m8s
+ *                          Carte_CBarbier_1.psd: 90% /21.480M, 30.958k/s, 1m10s
+ *                 ESPE/Mémoire Master MEEF.pptx: 69% /26.502M, 41.881k/s, 3m17s
+
+2022/02/26 13:06:59 INFO  : 
+Transferred:   	   63.007M / 82.496 MBytes, 76%, 119.553 kBytes/s, ETA 2m46s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            7 / 10, 70%
+Elapsed time:     8m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 59% /33.877M, 37.694k/s, 6m10s
+ *                          Carte_CBarbier_1.psd:100% /21.480M, 38.197k/s, -
+ *                 ESPE/Mémoire Master MEEF.pptx: 77% /26.502M, 32.481k/s, 3m4s
+
+2022/02/26 13:07:00 INFO  : Carte_CBarbier_1.psd: Copied (new)
+2022/02/26 13:07:59 INFO  : 
+Transferred:   	   70.228M / 82.501 MBytes, 85%, 119.920 kBytes/s, ETA 1m44s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            8 / 10, 80%
+Elapsed time:     9m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 71% /33.877M, 68.400k/s, 2m24s
+ *                 ESPE/Mémoire Master MEEF.pptx: 89% /26.502M, 54.173k/s, 50s
+
+2022/02/26 13:08:51 INFO  : ESPE/Mémoire Master MEEF.pptx: Copied (new)
+2022/02/26 13:08:59 INFO  : 
+Transferred:   	   77.231M / 82.507 MBytes, 94%, 119.885 kBytes/s, ETA 45s
+Errors:                 0
+Checks:               634 / 634, 100%
+Transferred:            9 / 10, 90%
+Elapsed time:    10m59.6s
+Transferring:
+ *                              CI_CBarbierl.psd: 84% /33.877M, 100.022k/s, 54s
+
+2022/02/26 13:09:48 INFO  : CI_CBarbierl.psd: Copied (new)
+2022/02/26 13:09:48 INFO  : Waiting for deletions to finish
+2022/02/26 13:09:48 INFO  : Pinephone/PinePhone v1.2b Released Schematic.pdf: Deleted
+2022/02/26 13:09:48 INFO  : Pinephone/Pinephone LoRa Back Cover Panel Schematic-v1.0-20210425.pdf: Deleted
+2022/02/26 13:09:48 INFO  : Pinephone/QZ01-rear-2019-0717(HW) Model.pdf: Deleted
+2022/02/26 13:09:49 INFO  : Linux/.~lock.Suivi.odt#: Deleted
+2022/02/26 13:09:49 INFO  : Linux/ASTUCES/tutoriel:creer_corbeille_partition_ntfs [Wiki ubuntu-fr].desktop: Deleted
+2022/02/26 13:09:50 INFO  : 
+Transferred:   	   82.516M / 82.516 MBytes, 100%, 119.077 kBytes/s, ETA 0s
+Errors:                 0
+Checks:               639 / 639, 100%
+Transferred:           10 / 10, 100%
+Elapsed time:    11m49.5s
+
+2022/03/01 08:21:57 INFO  : Linux/quiz.zip: Copied (new)
+2022/03/01 08:22:00 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for checks to finish
+2022/03/01 08:22:00 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for transfers to finish
+2022/03/01 08:22:01 INFO  : Paperasses/Formations/CBarbier_Controle_Linux_certificate.pdf: Copied (new)
+2022/03/01 08:22:01 INFO  : Linux/Résumé2.odt: Copied (replaced existing)
+2022/03/01 08:22:01 INFO  : Linux/git.odt: Copied (new)
+2022/03/01 08:22:02 INFO  : Paperasses/Formations/CBarbier_Linux_certificate.pdf: Copied (replaced existing)
+2022/03/01 08:22:02 INFO  : Waiting for deletions to finish
+2022/03/01 08:22:02 INFO  : Linux/.~lock.Résumé2.odt#: Deleted
+2022/03/01 08:22:02 INFO  : 
+Transferred:   	  684.767k / 684.767 kBytes, 100%, 86.094 kBytes/s, ETA 0s
+Errors:                 0
+Checks:               641 / 641, 100%
+Transferred:            5 / 5, 100%
+Elapsed time:        7.9s
+
+2022/03/01 08:50:46 INFO  : Linux/.~lock.Suivi.odt#: Copied (new)
+2022/03/01 08:50:46 INFO  : Linux/.~lock.Résumé2.odt#: Copied (new)
+2022/03/01 08:50:48 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for checks to finish
+2022/03/01 08:50:48 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for transfers to finish
+2022/03/01 08:50:48 INFO  : Waiting for deletions to finish
+2022/03/01 08:50:48 INFO  : 
+Transferred:   	       262 / 262 Bytes, 100%, 115 Bytes/s, ETA 0s
+Errors:                 0
+Checks:               643 / 643, 100%
+Transferred:            2 / 2, 100%
+Elapsed time:        2.2s
+
+Enter configuration password:
+password:
+2022/03/03 17:05:33 INFO  : 
+Transferred:   	         0 / 276.113 kBytes, 0%, 0 Bytes/s, ETA -
+Errors:                 0
+Checks:                38 / 38, 100%
+Transferred:            0 / 6, 0%
+Elapsed time:        1.5s
+Transferring:
+ *                         Linux/.~lock.git.odt#:  0% /83, 0/s, -
+ *                         Linux/Projets dev.odt:  0% /11.516k, 0/s, -
+ *                     Linux/.~lock.Résumé2.odt#:  0% /83, 0/s, -
+ *                 Linux/.~lock.Projets dev.odt#:  0% /83, 0/s, -
+
+Enter configuration password:
+password:
+Bad password: no characters in password
+password:Enter configuration password:
+password:2022/03/03 17:19:11 INFO  : Linux/.~lock.Suivi.odt#: Copied (replaced existing)
+2022/03/03 17:19:11 INFO  : Linux/.~lock.git.odt#: Copied (new)
+2022/03/03 17:19:13 INFO  : Linux/.~lock.Projets dev.odt#: Copied (new)
+2022/03/03 17:19:13 INFO  : Linux/.~lock.Résumé2.odt#: Copied (replaced existing)
+2022/03/03 17:19:20 INFO  : Linux/Projets dev.odt: Copied (replaced existing)
+2022/03/03 17:19:33 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for checks to finish
+2022/03/03 17:19:33 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for transfers to finish
+2022/03/03 17:19:45 INFO  : Paperasses/Formations/CBarbier_Git_Github_certificate.pdf: Copied (new)
+2022/03/03 17:19:52 INFO  : 
+Transferred:   	  394.143k / 394.002 kBytes, 100%, 8.371 kBytes/s, ETA -
+Errors:                 0
+Checks:               645 / 645, 100%
+Transferred:            6 / 8, 75%
+Elapsed time:         47s
+Transferring:
+ *                                 Linux/git.odt:100% /215.450k, 3.671k/s, -
+ *                               Linux/Suivi.odt:100% /48.904k, 623/s, -
+
+2022/03/03 17:19:57 INFO  : Linux/git.odt: Copied (replaced existing)
+2022/03/03 17:20:04 INFO  : Linux/Suivi.odt: Copied (replaced existing)
+2022/03/03 17:20:04 INFO  : Waiting for deletions to finish
+2022/03/03 17:20:04 INFO  : 
+Transferred:   	  394.143k / 394.143 kBytes, 100%, 6.716 kBytes/s, ETA 0s
+Errors:                 0
+Checks:               645 / 645, 100%
+Transferred:            8 / 8, 100%
+Elapsed time:       58.6s
+
+2022/03/03 17:24:37 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for checks to finish
+2022/03/03 17:24:37 INFO  : Encrypted drive 'FarmCrypt:/Docs/': Waiting for transfers to finish
+2022/03/03 17:24:37 INFO  : Waiting for deletions to finish
+2022/03/03 17:24:37 INFO  : 
+Transferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Errors:                 0
+Checks:               648 / 648, 100%
+Transferred:            0 / 0, -
+Elapsed time:          0s
+
